@@ -10,7 +10,7 @@ This repository packages everything needed to reproduce the experiments describe
 
 The benchmark tests whether large‑language models can correctly reason over the complex classification logic used for hospital funding in the Nordic countries. It includes full DRG logic tables, governance manuals, and a set of 14 case-based tasks targeting code lookup, cross-table inference, and qualitative audits.
 
-All artefacts are described in detail in the [arXiv paper (2025)](https://arxiv.org/abs/xxx).
+All artefacts are described in detail in the [arXiv paper (2025)](https://arxiv.org/abs/2506.13790).
 
 ---
 
