@@ -1,0 +1,13 @@
+Logic-1,Could you list all DRG groups in all NordDRG national version where the main treatment during the hospital visit was related to appendectomy? Please provide a list of drg_comb codes without duplicates.
+Logic-2,Could you list all DRG groups in the Finnish DRG version where the main treatment during the hospital visit was related to appendectomy? Please provide a list of drg_comb codes without duplicates.
+Logic-3,Could you list DRG groups where main treatment during the hospital visit might be related to Finnish word umpilisäke in Finnish DRG version?
+Logic-4,"How would you list all NordDRG groups across all national versions where a maternal delivery (vaginal or cesarean) occurs during an inpatient, outpatient, or primary-care episode of care—excluding the 'left-over' groups (468, 470, 477, Z75R, Z76R)?"
+Logic-5,Could you list DRG groups where the main treatment during the hospital visit might be related to Finnish word umpilisäke in All DRG versions from all countries? Use the drg_comb column codes and combine them into one list
+Logic-6,For DRG 166N which procedure codes have the connection through the procedure property? Use NCSP plus codes in your answer
+Logic-7,Which diagnosis codes are linked to DRG 166N through diagnosis properties in All DRG versions from all countries?
+Logic-8,Which diagnosis (ICD) codes are connected to diagnosis property 14X03?
+Logic-9,Which diagnosis categories and properties are listed in drg_logic for DRG group 372C?
+Logic-10,"How would you list all NordDRG groups across every national version where a maternal delivery (vaginal or cesarean) occurs during an inpatient or outpatient hospital episode of care - excluding primary-care delivery DRGs and the “left-over” groups (468*, 470*, 477*, Z75R, Z76R)?"
+Logic-11,"How would you list all NordDRG groups across all national versions for newborn episodes of care (MDC 15) during an inpatient, outpatient, or primary-care setting—excluding the 'left-over' groups (468, 470, 477, Z75R, Z76R)?"
+Logic-12,"For a case with principal diagnosis A5990 and secondary diagnosis G8000 (Spastic cerebral palsy),is the secondary counted as a valid complication?"
+Logic-13,"For a case with principal diagnosis B3710 and secondary diagnosis J1590 (Bacterial pneumonia, unspecified),is the secondary counted as a valid complication?"

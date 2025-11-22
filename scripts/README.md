@@ -24,3 +24,20 @@ Ensure you have the required dependencies installed (e.g., in a virtual environm
 ```bash
 pip install pandas openpyxl
 ```
+
+## Benchmark Q&A Processing
+
+The `process_benchmark_qa.py` script extracts questions and answers from the benchmark Excel file into categorized CSV files.
+
+### Usage
+
+```bash
+python3 scripts/process_benchmark_qa.py
+```
+
+This will create the following files in `NordDRG_AI_Benchmark/CSV/`:
+- `logic_questions.csv`
+- `logic_answers.csv`
+- `grouper_questions.csv`
+- `grouper_answers.csv`
+
