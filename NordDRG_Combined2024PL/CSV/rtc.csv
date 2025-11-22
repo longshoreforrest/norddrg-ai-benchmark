@@ -1,0 +1,97 @@
+rtc_code,rtc_text_nat,country
+0,Grouping succeeded technically,dan
+1,No principal diagnosis,dan
+2,Sex of the patient is missing,dan
+3,Sex of the patien is incoherent with the diagnosis,dan
+4,Patient is too young for the diagnosis,dan
+5,Patien is too old for current diagnosis,dan
+6,Error in the age of the patient (>125),dan
+7,Rare of false combination of diagnosis and procedu,dan
+8,Principal diagnosis not applicable,dan
+9,Other error,dan
+A,OR procedure for hemangioma,dan
+B,Unspecified or impossible procedure,dan
+0,Grouping completed technically,eng
+1,No principal diagnosis,eng
+2,Sex of the patient is missing,eng
+3,Sex of the patient is incoherent with the diagnosi,eng
+4,Patient is too young for current diagnosis,eng
+5,Patient is too old for current diagnosis,eng
+6,Error in the age of the patient (>125),eng
+7,Rare of false combination of diagnosis and procedu,eng
+8,Principal diagnosis not applicable,eng
+9,Other error,eng
+A,OR procedure for hemangioma,eng
+B,Unspecified or impossible procedure,eng
+0,Grouping completed technically,est
+1,No principal diagnosis,est
+2,Sex of the patient is missing,est
+3,Sex of the patient is incoherent with the diagnosi,est
+4,Patient is too young for current diagnosis,est
+5,Patient is too old for current diagnosis,est
+6,Error in the age of the patient (>125),est
+7,Rare of false combination of diagnosis and procedu,est
+8,Principal diagnosis not applicable,est
+9,Other error,est
+A,OR procedure for hemangioma,est
+B,Unspecified or impossible procedure,est
+0,Ryhmittely onnistui teknisesti,fin
+1,Päädiagnoosi puuttuu,fin
+2,Potilaan sukupuoli puuttuu,fin
+3,Potilaan sukupuoli ei sovi diagnoosiin,fin
+4,Potilas on liian nuori käytettyyn diagnoosiin,fin
+5,Potilas on liian vanha käytettyyn diagnoosiin,fin
+6,Potilaan ikä on virheellinen (>125),fin
+7,Virheellinen tai harvinainen toimenpide-diagnoosi,fin
+8,Käytetty päädiagnoosi sopimaton,fin
+9,Muu virhe ryhmityksessä,fin
+A,Leikkaussalitoimenpide hemangiooman hoitamiseksi,fin
+B,Unspecified or impossible procedure,fin
+0,Flokkun lokið,ice
+1,Engin aðalsjúkdómsgreining,ice
+2,Kyn sjúklings vantar,ice
+3,Kyn sjúklings á ekki við sjúkdómsgreiningu,ice
+4,Sjúklingur of ungur fyrir sjúkdómsgreiningu,ice
+5,Sjúklingur of gamall fyrir sjúkdómsgreiningu,ice
+6,Villa í aldri sjúklings (>125),ice
+7,Sjaldgæf eða röng samsetning sjúkdómsgreininga og,ice
+8,Aðalsjúkdómsgreining ekki nothæf,ice
+9,Önnur villa,ice
+A,Skurðaðgerð vegna blóðæðaæxlis,ice
+B,Ósértæk eða óframkvæmanaleg aðgerð,ice
+0,Tehniski pabeigta grupēšana,lat
+1,Nav galvenās diagnozes,lat
+2,Trūkst informācijas par pacienta dzimumu,lat
+3,Pacienta dzimums ir neatbilstošs diagnozei,lat
+4,Pacients ir pārāk jauns pašreizējai diagnozei,lat
+5,Pacients ir pārāk vecs pašreizējai diagnozei,lat
+6,Kļūda pacienta vecumam (>125),lat
+7,Reta vai nepareiza diagnozes un manipulācijas kombinācija,lat
+8,Galvenā diagnoze nav piemērojama,lat
+9,Cita kļūda,lat
+A,Hemangiomas manipulācija operāciju zālē,lat
+B,Nestandarta vai neiespējama manipulācija,lat
+0,Grouping completed technically,nor
+1,No principal diagnosis,nor
+2,Sex of the patient is missing,nor
+3,Sex of the patient is incoherent with the diagnosi,nor
+4,Patient is too young for current diagnosis,nor
+5,Patien is too old for current diagnosis,nor
+6,Error in the age of the patient (>125),nor
+7,Rare of false combination of diagnosis and procedu,nor
+8,Principal diagnosis not applicable,nor
+9,Other error,nor
+A,OR procedure for hemangioma,nor
+B,Unspecified or impossible procedure,nor
+0,Gruppering tekniskt genomförd,swe
+1,Huvuddiagnos fattas,swe
+2,Uppgift om kön fattas,swe
+3,Patientens kön och diagnos passar inte ihop,swe
+4,Patienten är för ung för diagnosen,swe
+5,Patienten är för gammal för diagnosen,swe
+6,Patienten ålder är felaktig (>125),swe
+7,Sällsynt eller felaktig kombination av diagnos och åtgärd,swe
+8,Huvuddiagnos är ogiltig,swe
+9,Annat fel i gruppering,swe
+A,Operationssal åtgärd för hemangiom,swe
+B,Ospecificerad eller omöjlig åtgärd,swe

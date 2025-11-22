@@ -1,0 +1,28 @@
+mdc,mdc_text_nat,mdc_text_comb,country
+0,PreMDC DRG,PreMDC DRG,fin
+1,Hermojärjestelmän sairaudet,Diseases of nervous system,fin
+2,Silmän sairaudet,Diseases and disorders of the eye,fin
+3,"Korvan, nenän ja kurkun sairaudet","Diseases and disorders of the ear, nose, mouth and throat",fin
+4,Hengityselinten sairaudet,Diseases and disorders of the respiratory system,fin
+5,Verenkiertoelinten sairaudet,Diseases and disorders of the circulatory system,fin
+6,Ruuansulatuskanavan sairaudet,Diseases and disorders of the digestive system,fin
+7,"Maksan, sappiteiden ja haiman sairaudet",Diseases and disorders of the hepatobiliary system and pancreas,fin
+8,Tuki- ja liikuntaelinten ja sidekudoksen sairaudet,Diseases and disorders of the musculoskeletal system and connective tissue,fin
+9,Ihon ja ihonalaisen kudoksen sairaudet,Diseases and disorders of the skin and subcutaneous tissue,fin
+10,"Endokriiniset, nutritionaaliset ja metaboliset  sairaudet","Endocrine, nutritional and metabolic diseases and disorders",fin
+11,Munuaisten ja virtsateiden sairaudet,Diseases and disorders of the kidney and urinary tract,fin
+12,Miehen lisääntymisjärjestelmän sairaudet,Diseases and disorders of the male reproductive system,fin
+13,Naisen lisääntymisjärjestelmän sairaudet,Diseases and disorders of the female reproductive system,fin
+14,"Raskaus, synnytys ja lapsivuodekausi","Pregnancy, childbirth and puerperium",fin
+15,Vastasyntyneet tai perinataalikaudella alkavat ongelmat,Newborns and other neonates with conditions originating in the perinatal period,fin
+16,"Veren, vertamuodostavan kudoksen ja immunologisen järjestelmän sairaudet",Diseases and disorders of the blood and blood forming organs and immunological disorders,fin
+17,Myeloproliferatiiviset sairaudet ja erilaistumattomat kasvaimet,"Myeloproliferative diseases and disorders, poorly differentiated neoplasms",fin
+18,Infektiosairaudet,Infectious and parasitic diseases,fin
+19,Psyykkiset sairaudet,Mental diseases and disorders,fin
+21,"Vammat, myrkytykset ja lääkkeiden toksiset vaikutukset","Injuries, poisonings and toxic effects of drugs",fin
+22,Palovammat,Burns,fin
+23,Terveydentilaan vaikuttavia tekijöitä,Factors influencing health status and other contacts with health services,fin
+24,Merkittävä monivamma,Multiple significant trauma,fin
+30,Rintarauhasen ongelma,Breast problem,fin
+98,Naisen/miehen lisääntymiselinten sairaus,Diseases and disorders of male/female reproductive organs,fin
+99,Epäspesifinen tai virheellinen informaatio,Unspecific or erroneous information,fin

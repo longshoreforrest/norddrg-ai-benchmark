@@ -1,0 +1,747 @@
+compl,inclprop,varval_text_comb,nat_ver
+01C01,,Neurological complication,est/swe/lat/ice/den/fin/nor
+01C02,,Spinal injury at neck level,est/swe/lat/ice/den/fin/nor
+01C03,,Spinal injury at thorax level,est/swe/lat/ice/den/fin/nor
+01C04,,Spinal injury at lumbal level,est/swe/lat/ice/den/fin/nor
+01C05,,"Spinal injury, sacral area and cauda equina",est/swe/lat/ice/den/fin/nor
+01C06,,"Spinal injury, level undefined",est/swe/lat/ice/den/fin/nor
+01C07,,Malignant neoplasm of brain,est/swe/lat/ice/den/fin/nor
+01C08,,Malignacy of nervous system,est/swe/lat/ice/den/fin/nor
+01C11,,Complicated hydrocephalus,est/swe/lat/ice/den/fin/nor
+01C12,,Spinal level dysfunction,est/swe/lat/ice/den/fin/nor
+01C13,,Multiple sclerosis,est/swe/lat/ice/den/fin/nor
+01C14,,Intracranial hemorrhage,est/swe/lat/ice/den/fin/nor
+01C15,,Occlusion of precerebral artery,est/swe/lat/ice/den/fin/nor
+01C16,,"CVA, unspecified",est/swe/lat/ice/den/fin/nor
+01C17,,H. zoster central nervous system compl.,est/swe/lat/ice/den/fin/nor
+01C21,,Tuberculosis of central nervous system,est/swe/lat/ice/den/fin/nor
+01C22,,Acute infective polyneuropathy,est/swe/lat/ice/den/fin/nor
+01C23,,TB meningitis,est/swe/lat/ice/den/fin/nor
+01C25,,Meningitis,est/swe/lat/ice/den/fin/nor
+01C27,,Other cerebrovascular disease,est/swe/lat/ice/den/fin/nor
+01C28,,Epilepsy,est/swe/lat/ice/den/fin/nor
+01C29,,Serious injury of skull or brain,est/swe/lat/ice/den/fin/nor
+01C30,,Anoxic brain damage,est/swe/lat/ice/den/fin/nor
+01C31,,Serious muscle disorder,est/swe/lat/ice/den/fin/nor
+01C32,,Cerebrospinal fluid leak,est/swe/lat/ice/den/fin/nor
+01C35,,CNS abscess,est/swe/lat/ice/den/fin/nor
+01C36,,Other meningitis,est/swe/lat/ice/den/fin/nor
+01C37,,Coma or disorientation,est/swe/lat/ice/den/fin/nor
+01C38,,Spina bifida,est/swe/lat/ice/den/fin/nor
+01C39,,Convulsions,est/swe/lat/ice/den/fin/nor
+01C40,,Nerve root or plexus injury,est/swe/lat/ice/den/fin/nor
+01C41,,Non-bacterial meningoencephalitis,est/swe/lat/ice/den/fin/nor
+01C42,,Complication of intracranial shunt,est/swe/lat/ice/fin/nor
+01C80,,Multiple cranial nerve palsies in sarcoidosis (D86.8+),est/swe/lat/ice/den/fin/nor
+01C81,,Mechanical complication of implanted electronic stimulator of nervous system,est/swe/lat/ice/den/fin/nor
+01G01,,Neurological complication- major CC,est/swe/lat/ice/den/fin/nor
+01G02,,Spinal injury at neck level- major CC,est/swe/lat/ice/den/fin/nor
+01G03,,Spinal injury at thorax level- major CC,est/swe/lat/ice/den/fin/nor
+01G04,,Spinal injury at lumbal level- major CC,est/swe/lat/ice/den/fin/nor
+01G05,,"Spinal injury, sacral area and cauda equina- major CC",est/swe/lat/ice/den/fin/nor
+01G06,,"Spinal injury, level undefined- major CC",est/swe/lat/ice/den/fin/nor
+01G07,,Malignant neoplasm of brain- major CC,est/swe/lat/ice/den/fin/nor
+01G08,,Malignacy of nervous system- major CC,est/swe/lat/ice/den/fin/nor
+01G11,,Complicated hydrocephalus- major CC,est/swe/lat/ice/den/fin/nor
+01G12,,Spinal level dysfunction- major CC,est/swe/lat/ice/den/fin/nor
+01G13,,Multiple sclerosis- major CC,est/swe/lat/ice/den/fin/nor
+01G14,,Intracranial hemorrhage- major CC,est/swe/lat/ice/den/fin/nor
+01G15,,Occlusion of precerebral artery- major CC,est/swe/lat/ice/den/fin/nor
+01G16,,"CVA, unspecified- major CC",est/swe/lat/ice/den/fin/nor
+01G17,,H. zoster central nervous system compl.- major CC,est/swe/lat/ice/den/fin/nor
+01G21,,Tuberculosis of central nervous system- major CC,est/swe/lat/ice/den/fin/nor
+01G22,,Acute infective polyneuropathy- major CC,est/swe/lat/ice/den/fin/nor
+01G23,,TB meningitis- major CC,est/swe/lat/ice/den/fin/nor
+01G25,,Meningitis- major CC,est/swe/lat/ice/den/fin/nor
+01G27,,Other cerebrovascular disease- major CC,est/swe/lat/ice/den/fin/nor
+01G28,,Epilepsy- major CC,est/swe/lat/ice/den/fin/nor
+01G29,,Serious injury of skull or brain- major CC,est/swe/lat/ice/den/fin/nor
+01G30,,Anoxic brain damage- major CC,est/swe/lat/ice/den/fin/nor
+01G31,,Serious muscle disorder- major CC,est/swe/lat/ice/den/fin/nor
+01G32,,Cerebrospinal fluid leak- major CC,est/swe/lat/ice/den/fin/nor
+01G35,,CNS abscess- major CC,est/swe/lat/ice/den/fin/nor
+01G36,,Other meningitis- major CC,est/swe/lat/ice/den/fin/nor
+01G37,,Coma or disorientation- major CC,est/swe/lat/ice/den/fin/nor
+01G38,,Spina bifida- major CC,est/swe/lat/ice/den/fin/nor
+01G39,,Convulsions- major CC,est/swe/lat/ice/den/fin/nor
+01G40,,Nerve root or plexus injury- major CC,est/swe/lat/ice/den/fin/nor
+01G41,,Non-bacterial meningoencephalitis- major CC,est/swe/lat/ice/den/fin/nor
+01G42,,Complication of intracranial shunt- major CC,est/swe/lat/ice/fin/nor
+01G80,,Multiple cranial nerve palsies in sarcoidosis (D86.8+)- major CC,est/swe/lat/ice/den/fin/nor
+01G81,,Mechanical complication of implanted electronic stimulator of nervous system- major CC,est/swe/lat/ice/den/fin/nor
+02C01,,Complex retinal or central problem of vision,est/swe/lat/ice/den/fin/nor
+02C02,,Complex eye infection,est/swe/lat/ice/den/fin/nor
+02C03,,Open wound of eye,est/swe/lat/ice/den/fin/nor
+02C80,,Mechanical complication of intraocular lens,est/swe/lat/ice/den/fin/nor
+02C81,,"Mechanical complication of other ocular prosthetic devices, implants and grafts",est/swe/lat/ice/den/fin/nor
+02G01,,Complex retinal or central problem of vision- major CC,est/swe/lat/ice/den/fin/nor
+02G02,,Complex eye infection- major CC,est/swe/lat/ice/den/fin/nor
+02G03,,Open wound of eye- major CC,est/swe/lat/ice/den/fin/nor
+02G80,,Mechanical complication of intraocular lens- major CC,est/swe/lat/ice/den/fin/nor
+02G81,,"Mechanical complication of other ocular prosthetic devices, implants and grafts- major CC",est/swe/lat/ice/den/fin/nor
+03C01,,Laryngeal obstruction,est/swe/lat/ice/den/fin/nor
+03C02,,Faryngeal abscess,est/swe/lat/ice/den/fin/nor
+03C05,,Abscessus of the mastoid,est/swe/lat/ice/den/fin/nor
+03C08,,Fracture or luxation of mandible or maxilla,est/swe/lat/ice/den/fin/nor
+03C09,,Vocal cord paralysis,est/swe/lat/ice/den/fin/nor
+03C10,,Severe mouth infection,est/swe/lat/ice/den/fin/nor
+03G01,,Laryngeal obstruction- major CC,est/swe/lat/ice/den/fin/nor
+03G02,,Faryngeal abscess- major CC,est/swe/lat/ice/den/fin/nor
+03G05,,Abscessus of the mastoid- major CC,est/swe/lat/ice/den/fin/nor
+03G08,,Fracture or luxation of mandible or maxilla- major CC,est/swe/lat/ice/den/fin/nor
+03G09,,Vocal cord paralysis- major CC,est/swe/lat/ice/den/fin/nor
+03G10,,Severe mouth infection- major CC,est/swe/lat/ice/den/fin/nor
+03I01,04X02,"Laryngotracheal infection w obstruction, needs activation",est/swe/lat/ice/den/fin/nor
+04C01,,Pneumonia,est/swe/lat/ice/den/fin/nor
+04C02,,Respiratory tuberculosis,est/swe/lat/ice/den/fin/nor
+04C05,,Chronic obstructive disease,est/swe/lat/ice/den/fin/nor
+04C06,,Status asthmaticus,est/swe/lat/ice/den/fin/nor
+04C07,,Bronchiectasis,est/swe/lat/ice/den/fin/nor
+04C08,,Congenital bronchietasis,est/swe/lat/ice/den/fin/nor
+04C09,,Rheumatic pneumonia,est/swe/lat/ice/den/fin/nor
+04C10,,Empyema,est/swe/lat/ice/den/fin/nor
+04C12,,Abscess of lung,est/swe/lat/ice/den/fin/nor
+04C13,,Complex mediastinal disease,est/swe/lat/ice/den/fin/nor
+04C14,,Malignant neoplasm of lung,est/swe/lat/ice/den/fin/nor
+04C15,,Malignant neoplasm of pleura,est/swe/lat/ice/den/fin/nor
+04C16,,Malignant neoplasm of mediastinum,est/swe/lat/ice/den/fin/nor
+04C17,,Complicated fracture of rib,est/swe/lat/ice/den/fin/nor
+04C18,,Fracture of sternum,est/swe/lat/ice/den/fin/nor
+04C19,,Traumatic pneumo/hemothorax,est/swe/lat/ice/den/fin/nor
+04C20,,Other intrathoracic trauma,est/swe/lat/ice/den/fin/nor
+04C21,,Pleural effusion,est/swe/lat/ice/den/fin/nor
+04C22,,Pneumothorax,est/swe/lat/ice/den/fin/nor
+04C23,,Pulmonary edema,est/swe/lat/ice/den/fin/nor
+04C24,,Respiratory failure,est/swe/lat/ice/den/fin/nor
+04C25,,Hemoptysis,est/swe/lat/ice/den/fin/nor
+04C26,,Gangrene of lung,est/swe/lat/ice/den/fin/nor
+04C27,,Secondary malignancy in respiratory organs,est/swe/lat/ice/den/fin/nor
+04C28,,Lung transplant status,est/swe/lat/ice/den/fin/nor
+04C29,,Respiratory arrest,est/swe/lat/ice/den/fin/nor
+04C30,,Cystic lung or agenesis of lung,est/swe/lat/ice/den/fin/nor
+04C40,,Other thoracic fracture,est/swe/lat/ice/den/fin/nor
+04C99,,Complicate pulmonary disease,est/swe/lat/ice/den/fin/nor
+04G01,,Pneumonia- major CC,est/swe/lat/ice/den/fin/nor
+04G02,,Respiratory tuberculosis- major CC,est/swe/lat/ice/den/fin/nor
+04G05,,Chronic obstructive disease- major CC,est/swe/lat/ice/den/fin/nor
+04G06,,Status asthmaticus- major CC,est/swe/lat/ice/den/fin/nor
+04G07,,Bronchiectasis- major CC,est/swe/lat/ice/den/fin/nor
+04G08,,Congenital bronchietasis- major CC,est/swe/lat/ice/den/fin/nor
+04G09,,Rheumatic pneumonia- major CC,est/swe/lat/ice/den/fin/nor
+04G10,,Empyema- major CC,est/swe/lat/ice/den/fin/nor
+04G12,,Abscess of lung- major CC,est/swe/lat/ice/den/fin/nor
+04G13,,Complex mediastinal disease- major CC,est/swe/lat/ice/den/fin/nor
+04G14,,Malignant neoplasm of lung- major CC,est/swe/lat/ice/den/fin/nor
+04G15,,Malingnant neoplasm of pleura- major CC,est/swe/lat/ice/den/fin/nor
+04G16,,Malignant neoplasm of mediastinum- major CC,est/swe/lat/ice/den/fin/nor
+04G17,,Complicated fracture of rib- major CC,est/swe/lat/ice/den/fin/nor
+04G18,,Fracture of sternum- major CC,est/swe/lat/ice/den/fin/nor
+04G19,,Traumatic pneumo/hemothorax- major CC,est/swe/lat/ice/den/fin/nor
+04G20,,Other intrathoracic trauma- major CC,est/swe/lat/ice/den/fin/nor
+04G21,,Pleural effusion- major CC,est/swe/lat/ice/den/fin/nor
+04G22,,Pneumothorax- major CC,est/swe/lat/ice/den/fin/nor
+04G23,,Pulmonary edema- major CC,est/swe/lat/ice/den/fin/nor
+04G24,,Respiratory failure- major CC,est/swe/lat/ice/den/fin/nor
+04G25,,Hemoptysis- major CC,est/swe/lat/ice/den/fin/nor
+04G26,,Gangrene of lung- major CC,est/swe/lat/ice/den/fin/nor
+04G27,,Secondary malignancy in respiratory organs- major CC,est/swe/lat/ice/den/fin/nor
+04G28,,Lung transplant status- major CC,est/swe/lat/ice/den/fin/nor
+04G29,,Respiratory arrest- major CC,est/swe/lat/ice/den/fin/nor
+04G30,,Cystic lung or agenesis of lung- major CC,est/swe/lat/ice/den/fin/nor
+04G40,,Other thoracic fracture- major CC,est/swe/lat/ice/den/fin/nor
+04G99,,Complicate pulmonary disease- major CC,est/swe/lat/ice/den/fin/nor
+04I17,04X01,"Complicated fracture of rib, needs activation",est/swe/lat/ice/den/fin/nor
+04I20,04X01,"Other intrathoracic trauma, needs activation",est/swe/lat/ice/den/fin/nor
+05C01,,Acute myocardial infarction,est/swe/lat/ice/den/fin/nor
+05C02,,Acute or subacute endocarditis,est/swe/lat/ice/den/fin/nor
+05C03,,Congestive heart failure,est/swe/lat/ice/den/fin/nor
+05C04,,Other heart failure,est/swe/lat/ice/den/fin/nor
+05C05,,Other rheumatic cardiacl complication,est/swe/lat/ice/den/fin/nor
+05C06,,Rheumatic myocarditis,est/swe/lat/ice/den/fin/nor
+05C07,,Flebitis in periferal veins,est/swe/lat/ice/den/fin/nor
+05C08,,Flebitis in central organs,est/swe/lat/ice/den/fin/nor
+05C09,,Cardiac arrest,est/swe/lat/ice/den/fin/nor
+05C10,,Rupture of large artery,est/swe/lat/ice/den/fin/nor
+05C11,,Embolism or thrombosis of large artery,est/swe/lat/ice/den/fin/nor
+05C12,,Gangrene,est/swe/lat/ice/den/fin/nor
+05C13,,Mitral valve disorder,est/swe/lat/ice/den/fin/nor
+05C14,,Aortic valve disorder,est/swe/lat/ice/den/fin/nor
+05C15,,Tricuspidal valve disorder,est/swe/lat/ice/den/fin/nor
+05C16,,Pulmonary valve disorder,est/swe/lat/ice/den/fin/nor
+05C17,,Hypertensive heart disease,est/swe/lat/ice/den/fin/nor
+05C18,,Hypertensive disease associated with renal function,est/swe/lat/ice/den/fin/nor
+05C19,,Major cardiac anomaly involving left ventricle,est/swe/lat/ice/den/fin/nor
+05C20,,Complication of acute myocardial infarction,est/swe/lat/ice/den/fin/nor
+05C21,,Congenital defect of pulmonary or tricuspid valve,est/swe/lat/ice/den/fin/nor
+05C22,,Anomaly involving cardiac ventricles or valves,est/swe/lat/ice/den/fin/nor
+05C23,,Other congenital anomalies of heart and coronary vessels,est/swe/lat/ice/den/fin/nor
+05C24,,Congenital heart block and other cardiovascular anomalies,est/swe/lat/ice/den/fin/nor
+05C25,,Congenital stenosis of aorta or vena cava,est/swe/lat/ice/den/fin/nor
+05C26,,Malfunction of cardiovascular device or graft,est/swe/lat/ice/den/fin/nor
+05C27,,Malfunction of cardiovascular device or graft NOS,est/swe/lat/ice/den/fin/nor
+05C28,,Postmyocardial infarction syndome,est/swe/lat/ice/den/fin/nor
+05C29,,Acute ischemic heart disease or coronary occlusion without myocardial infarction,est/swe/lat/ice/den/fin/nor
+05C30,,Angina pectoris,est/swe/lat/ice/den/fin/nor
+05C31,,Other myocarditis,est/swe/lat/ice/den/fin/nor
+05C32,,Chagas disease of heart,est/swe/lat/ice/den/fin/nor
+05C33,,Acute cor pulmonale,est/swe/lat/ice/den/fin/nor
+05C34,,Pulmonary embolism/infarction,est/swe/lat/ice/den/fin/nor
+05C35,,Primary pulmonal hypertension,est/swe/lat/ice/den/fin/nor
+05C36,,Acute pericarditis,est/swe/lat/ice/den/fin/nor
+05C37,,Chronic pericarditis of hemopericardium,est/swe/lat/ice/den/fin/nor
+05C38,,Cardiomyopathy,est/swe/lat/ice/den/fin/nor
+05C39,,Cardiac arrythmia,est/swe/lat/ice/den/fin/nor
+05C40,,Heart disease post cardiac surgery,est/swe/lat/ice/den/fin/nor
+05C42,,Complicated heart injury,est/swe/lat/ice/den/fin/nor
+05C43,,Heart transplant status,est/swe/lat/ice/den/fin/nor
+05C44,,Heart valve transplant,est/swe/lat/ice/den/fin/nor
+05C45,,"Hemorrhage, NOS",est/swe/lat/ice/den/fin/nor
+05C50,,Multiple valve disorders,est/swe/lat/ice/den/fin/nor
+05C80,,Malignant neoplasm of heart,est/swe/lat/ice/den/fin/nor
+05C81,,Malignant neoplasm of mesothelioma of pericardium,est/swe/lat/ice/den/fin/nor
+05C83,,"Postprocedural disorder of circulatory system, unspecified",est/swe/lat/ice/den/fin/nor
+05C84,,Presence of mechanical heart,swe/lat/ice/den/fin/nor
+05G01,,Acute myocardial infarction- major CC,est/swe/lat/ice/den/fin/nor
+05G02,,Acute or subacute endocarditis- major CC,est/swe/lat/ice/den/fin/nor
+05G03,,Congestive heart failure- major CC,est/swe/lat/ice/den/fin/nor
+05G04,,Other heart failure- major CC,est/swe/lat/ice/den/fin/nor
+05G05,,Other rheumatic cardiacl complication- major CC,est/swe/lat/ice/den/fin/nor
+05G06,,Rheumatic myocarditis- major CC,est/swe/lat/ice/den/fin/nor
+05G07,,Flebitis in periferal veins- major CC,est/swe/lat/ice/den/fin/nor
+05G08,,Flebitis in central organs- major CC,est/swe/lat/ice/den/fin/nor
+05G09,,Cardiac arrest- major CC,est/swe/lat/ice/den/fin/nor
+05G10,,Rupture of large artery- major CC,est/swe/lat/ice/den/fin/nor
+05G11,,Embolism or thrombosis of large artery- major CC,est/swe/lat/ice/den/fin/nor
+05G12,,Gangrene- major CC,est/swe/lat/ice/den/fin/nor
+05G13,,Mitral valve disorder- major CC,est/swe/lat/ice/den/fin/nor
+05G14,,Aortic valve disorder- major CC,est/swe/lat/ice/den/fin/nor
+05G15,,Tricuspidal valve disorder- major CC,est/swe/lat/ice/den/fin/nor
+05G16,,Pulmonary valve disorder- major CC,est/swe/lat/ice/den/fin/nor
+05G17,,Hypertensive heart disease- major CC,est/swe/lat/ice/den/fin/nor
+05G18,,Hypertensive disease associated with renal function- major CC,est/swe/lat/ice/den/fin/nor
+05G19,,Major cardiac anomaly involving left ventricle- major CC,est/swe/lat/ice/den/fin/nor
+05G20,,Complication of acute myocardial infarction- major CC,est/swe/lat/ice/den/fin/nor
+05G21,,Congenital defect of pulmonary or tricuspid valve- major CC,est/swe/lat/ice/den/fin/nor
+05G22,,Anomaly involving cardiac ventricles or valves- major CC,est/swe/lat/ice/den/fin/nor
+05G23,,Other congenital anomalies of heart and coronary vessels- major CC,est/swe/lat/ice/den/fin/nor
+05G24,,Congenital heart block and other cardiovascular anomalies- major CC,est/swe/lat/ice/den/fin/nor
+05G25,,Congenital stenosis of aorta or vena cava- major CC,est/swe/lat/ice/den/fin/nor
+05G26,,Malfunction of cardiovascular device or graft- major CC,est/swe/lat/ice/den/fin/nor
+05G27,,Malfunction of cardiovascular device or graft NOS- major CC,est/swe/lat/ice/den/fin/nor
+05G28,,Postmyocardial infarction syndome- major CC,est/swe/lat/ice/den/fin/nor
+05G29,,Acute ischemic heart disease or coronary occlusion without myocardial infarction- major CC,est/swe/lat/ice/den/fin/nor
+05G30,,Angina pectoris- major CC,est/swe/lat/ice/den/fin/nor
+05G31,,Other myocarditis- major CC,est/swe/lat/ice/den/fin/nor
+05G32,,Chagas disease of heart- major CC,est/swe/lat/ice/den/fin/nor
+05G33,,Acute cor pulmonale- major CC,est/swe/lat/ice/den/fin/nor
+05G34,,Pulmonary embolism/infarction- major CC,est/swe/lat/ice/den/fin/nor
+05G35,,Primary pulmonal hypertension- major CC,est/swe/lat/ice/den/fin/nor
+05G36,,Acute pericarditis- major CC,est/swe/lat/ice/den/fin/nor
+05G37,,Chronic pericarditis of hemopericardium- major CC,est/swe/lat/ice/den/fin/nor
+05G38,,Cardiomyopathy- major CC,est/swe/lat/ice/den/fin/nor
+05G39,,Cardiac arrhythmia- major CC,est/swe/lat/ice/den/fin/nor
+05G40,,Heart disease post cardiac surgery- major CC,est/swe/lat/ice/den/fin/nor
+05G42,,Complicated heart injury- major CC,est/swe/lat/ice/den/fin/nor
+05G43,,Heart transplant status- major CC,est/swe/lat/ice/den/fin/nor
+05G44,,Heart valve transplant- major CC,est/swe/lat/ice/den/fin/nor
+05G45,,"Hemorrhage, NOS- major CC",est/swe/lat/ice/den/fin/nor
+05G50,,Multiple valve disorder- major CC,est/swe/lat/ice/den/fin/nor
+05G80,,Malignant neoplasm of heart- major CC,est/swe/lat/ice/den/fin/nor
+05G81,,Malignant neoplasm of mesothelioma of pericardium- major CC,est/swe/lat/ice/den/fin/nor
+05G83,,"Postprocedural disorder of circulatory system, unspecified- major CC",est/swe/lat/ice/den/fin/nor
+05G84,,Precence of mechanical heart- major CC,swe/lat/ice/den/fin/nor
+05I42,04X01,"Complicated heart injury, needs activation",est/swe/lat/ice/den/fin/nor
+06C01,,Bleeding esophageal varices,est/swe/lat/ice/den/fin/nor
+06C02,,Malignant neoplasm of colon area,est/swe/lat/ice/den/fin/nor
+06C04,,Malignant neoplasm of esofagus,est/swe/lat/ice/den/fin/nor
+06C05,,Malignant neoplasm of stomach,est/swe/lat/ice/den/fin/nor
+06C06,,Malignant neoplasm of small bowel,est/swe/lat/ice/den/fin/nor
+06C07,,Malignant neoplasm of rectum and anus,est/swe/lat/ice/den/fin/nor
+06C08,,"Secondary malignancy of bowel, liver and peritoneum",est/swe/lat/ice/den/fin/nor
+06C09,,Other esophageal problems,est/swe/lat/ice/den/fin/nor
+06C10,,Complicated or bleeding gastric or bowel ulcer,est/swe/lat/ice/den/fin/nor
+06C11,,Adult hypertrofic puloric stenosis,est/swe/lat/ice/den/fin/nor
+06C12,,Duodenal obstruction or gastric/duodenal fistula,est/swe/lat/ice/den/fin/nor
+06C13,,G.I. obstruction,est/swe/lat/ice/den/fin/nor
+06C14,,Perforation of esophagus,est/swe/lat/ice/den/fin/nor
+06C15,,Complicated diaphragmatic hernia,est/swe/lat/ice/den/fin/nor
+06C16,,Malabosrtion,est/swe/lat/ice/den/fin/nor
+06C17,,Peritonitis,est/swe/lat/ice/den/fin/nor
+06C18,,Complicated injury of intra-abdominal organs,est/swe/lat/ice/den/fin/nor
+06C19,,Complicated femoral or inguinal hernia,est/swe/lat/ice/den/fin/nor
+06C20,,Complicated other abdominal hernia,est/swe/lat/ice/den/fin/nor
+06C21,,Complicated unspecified abdominal hernia,est/swe/lat/ice/den/fin/nor
+06C22,,Vascular insufficiency of intestine,est/swe/lat/ice/den/fin/nor
+06C23,,Anorectal abscess,est/swe/lat/ice/den/fin/nor
+06C24,,Perforation of intestine,est/swe/lat/ice/den/fin/nor
+06C25,,Ascites or peritoneal malignancy,est/swe/lat/ice/den/fin/nor
+06C26,,Gastroenteritis,est/swe/lat/ice/den/fin/nor
+06C27,,Inflammatory or functional bowel disease,est/swe/lat/ice/den/fin/nor
+06C28,,Gastrointestinal anomaly,est/swe/lat/ice/den/fin/nor
+06C80,,Radiation proctitis,est/swe/lat/ice/den/fin/nor
+06C81,,Congenital malformations of spleen,est/swe/lat/ice/den/fin/nor
+06C84,,Acute dilatation of stomach,est/swe/lat/ice/den/fin/nor
+06C85,,Gastroenteritis and colitis due to radiation,est/swe/lat/ice/den/fin/nor
+06C86,,Toxic gastroenteritis and colitis,est/swe/lat/ice/den/fin/nor
+06C87,,Abscess of intestine,est/swe/lat/ice/den/fin/nor
+06C88,,Haemoperitoneum,est/swe/lat/ice/den/fin/nor
+06C89,,Colostomy and enterostomy malfunction,est/swe/lat/ice/den/fin/nor
+06G01,,Bleeding esophageal varices- major CC,est/swe/lat/ice/den/fin/nor
+06G02,,Malignant neoplasm of colon area- major CC,est/swe/lat/ice/den/fin/nor
+06G04,,Malignant neoplasm of esofagus- major CC,est/swe/lat/ice/den/fin/nor
+06G05,,Malignant neoplasm of stomach- major CC,est/swe/lat/ice/den/fin/nor
+06G06,,Malignant neoplasm of small bowel- major CC,est/swe/lat/ice/den/fin/nor
+06G07,,Malignant neoplasm of rectum and anus- major CC,est/swe/lat/ice/den/fin/nor
+06G08,,"Secondary malignancy of bowel, liver and peritoneum- major CC",est/swe/lat/ice/den/fin/nor
+06G09,,Other esophageal problem- major CC,est/swe/lat/ice/den/fin/nor
+06G10,,Complicated or bleeding gastric or bowel ulcer- major CC,est/swe/lat/ice/den/fin/nor
+06G11,,Adult hypertrofic puloric stenosis- major CC,est/swe/lat/ice/den/fin/nor
+06G12,,Duodenal obstruction or gastric/duodenal fistula- major CC,est/swe/lat/ice/den/fin/nor
+06G13,,G.I. obstruction- major CC,est/swe/lat/ice/den/fin/nor
+06G14,,Perforation of esophagus- major CC,est/swe/lat/ice/den/fin/nor
+06G15,,Complicated diaphragmatic hernia- major CC,est/swe/lat/ice/den/fin/nor
+06G16,,Malabosrtion- major CC,est/swe/lat/ice/den/fin/nor
+06G17,,Peritonitis- major CC,est/swe/lat/ice/den/fin/nor
+06G18,,Complicated injury of intra-abdominal organs- major CC,est/swe/lat/ice/den/fin/nor
+06G19,,Complicated femoral or inguinal hernia- major CC,est/swe/lat/ice/den/fin/nor
+06G20,,Complicated other abdominal hernia- major CC,est/swe/lat/ice/den/fin/nor
+06G21,,Complicated unspecified abdominal hernia- major CC,est/swe/lat/ice/den/fin/nor
+06G22,,Vascular insufficiency of intestine- major CC,est/swe/lat/ice/den/fin/nor
+06G23,,Anorectal abscess- major CC,est/swe/lat/ice/den/fin/nor
+06G24,,Perforation of intestine- major CC,est/swe/lat/ice/den/fin/nor
+06G25,,Ascites or peritoneal malignancy- major CC,est/swe/lat/ice/den/fin/nor
+06G26,,Gastroenteritis- major CC,est/swe/lat/ice/den/fin/nor
+06G27,,Inflammatory or functional bowel disease- major CC,est/swe/lat/ice/den/fin/nor
+06G28,,Gastrointestinal anomaly- major CC,est/swe/lat/ice/den/fin/nor
+06G80,,Radiation proctitis- major CC,est/swe/lat/ice/den/fin/nor
+06G81,,Congenital malformations of spleen- major CC,est/swe/lat/ice/den/fin/nor
+06G84,,Acute dilatation of stomach- major CC,est/swe/lat/ice/den/fin/nor
+06G85,,Gastroenteritis and colitis due to radiation- major CC,est/swe/lat/ice/den/fin/nor
+06G86,,Toxic gastroenteritis and colitis- major CC,est/swe/lat/ice/den/fin/nor
+06G87,,Abscess of intestine- major CC,est/swe/lat/ice/den/fin/nor
+06G88,,Haemoperitoneum- major CC,est/swe/lat/ice/den/fin/nor
+06G89,,Colostomy and enterostomy malfunction- major CC,est/swe/lat/ice/den/fin/nor
+06I10,06X10,"Complicated or bleeding gastric or bowel ulcer, needs activation",est/swe/lat/ice/den/fin/nor
+06I18,06X04,"Complicated injury of intra-abdominal organs, needs activation",est/swe/lat/ice/den/fin/nor
+07C01,,Alcohol cirrhosis liver,est/swe/lat/ice/den/fin/nor
+07C03,,Malignant neoplasm of liver,est/swe/lat/ice/den/fin/nor
+07C04,,Malignant neoplasm of biliary tract,est/swe/lat/ice/den/fin/nor
+07C05,,Malignant neoplasm of pancreas,est/swe/lat/ice/den/fin/nor
+07C06,,Acute pancreatitis,est/swe/lat/ice/den/fin/nor
+07C07,,Chronic panreatitis,est/swe/lat/ice/den/fin/nor
+07C08,,Viral hepatitis,est/swe/lat/ice/den/fin/nor
+07C09,,Cirrhosis of liver or chronic hepatitis (not alcohol),est/swe/lat/ice/den/fin/nor
+07C10,,Abscess of liver,est/swe/lat/ice/den/fin/nor
+07C11,,Acute liver failure or hepatic coma,est/swe/lat/ice/den/fin/nor
+07C12,,"Hepatitis, different etiologies",est/swe/lat/ice/den/fin/nor
+07C13,,Hepatic infarction,est/swe/lat/ice/den/fin/nor
+07C14,,Liver transplant status,est/swe/lat/ice/den/fin/nor
+07C15,,Chronic cholecystitis,est/swe/lat/ice/den/fin/nor
+07C16,,Perforation of bile duct,est/swe/lat/ice/den/fin/nor
+07C17,,"Obstruction, perforation of fistula of gallbladder",est/swe/lat/ice/den/fin/nor
+07C18,,Acute cholecystitis,est/swe/lat/ice/den/fin/nor
+07C19,,Cholangitis,est/swe/lat/ice/den/fin/nor
+07C20,,Acute necrosis of liver,est/swe/lat/ice/den/fin/nor
+07C22,,Hepatobiliary anomaly,est/swe/lat/ice/den/fin/nor
+07G01,,Alcohol cirrhosis liver- major CC,est/swe/lat/ice/den/fin/nor
+07G03,,Malignant neoplasm of liver- major CC,est/swe/lat/ice/den/fin/nor
+07G04,,Malignant neoplasm of biliary tract- major CC,est/swe/lat/ice/den/fin/nor
+07G05,,Malignant neoplasm of pancreas- major CC,est/swe/lat/ice/den/fin/nor
+07G06,,Acute pancreatitis- major CC,est/swe/lat/ice/den/fin/nor
+07G07,,Chronic panreatitis- major CC,est/swe/lat/ice/den/fin/nor
+07G08,,Viral hepatitis- major CC,est/swe/lat/ice/den/fin/nor
+07G09,,Cirrhosis of liver or chronic hepatitis (not alcohol)- major CC,est/swe/lat/ice/den/fin/nor
+07G10,,Abscess of liver- major CC,est/swe/lat/ice/den/fin/nor
+07G11,,Acute liver failure or hepatic coma- major CC,est/swe/lat/ice/den/fin/nor
+07G12,,"Hepatitis, different etiologies- major CC",est/swe/lat/ice/den/fin/nor
+07G13,,Hepatic infarction- major CC,est/swe/lat/ice/den/fin/nor
+07G14,,Liver transplant status- major CC,est/swe/lat/ice/den/fin/nor
+07G15,,Chronic cholecystitis- major CC,est/swe/lat/ice/den/fin/nor
+07G16,,Perforation of bile duct- major CC,est/swe/lat/ice/den/fin/nor
+07G17,,"Obstruction, perforation of fistula of gallbladder- major CC",est/swe/lat/ice/den/fin/nor
+07G18,,Acute cholecystitis- major CC,est/swe/lat/ice/den/fin/nor
+07G19,,Cholangitis- major CC,est/swe/lat/ice/den/fin/nor
+07G20,,Acute necrosis of liver- major CC,est/swe/lat/ice/den/fin/nor
+07G22,,Hepatobiliary anomaly- major CC,est/swe/lat/ice/den/fin/nor
+08C01,,Myositis or tendinitis,est/swe/lat/ice/den/fin/nor
+08C02,,Arteritis in connective tissue disease,est/swe/lat/ice/den/fin/nor
+08C03,,Fracture of femur,est/swe/lat/ice/den/fin/nor
+08C05,,Pelvic fracture,est/swe/lat/ice/den/fin/nor
+08C07,,Pyogenic arthritis,est/swe/lat/ice/den/fin/nor
+08C08,,Osteopathy,est/swe/lat/ice/den/fin/nor
+08C09,,Pathologic fracture,est/swe/lat/ice/den/fin/nor
+08C10,,Complicated rheumatoid arthritis,est/swe/lat/ice/den/fin/nor
+08C11,,SLE,est/swe/lat/ice/den/fin/nor
+08C12,,Dermatopolymyositis,est/swe/lat/ice/den/fin/nor
+08C13,,Systemic sclerosis,est/swe/lat/ice/den/fin/nor
+08C14,,Other diffuse connective tissue diseases,est/swe/lat/ice/den/fin/nor
+08C15,,Postlaminectomy syndrome,est/swe/lat/ice/den/fin/nor
+08C16,,Torticollis,est/swe/lat/ice/den/fin/nor
+08C17,,Mal/nonunion of fracture,est/swe/lat/ice/den/fin/nor
+08C18,,Psoriatic arthropathy,est/swe/lat/ice/den/fin/nor
+08C19,,Fracture of cervical vertebra,est/swe/lat/ice/den/fin/nor
+08C20,,Fracture of other vertebra,est/swe/lat/ice/den/fin/nor
+08C21,,Dislocation of cervical vertebra,est/swe/lat/ice/den/fin/nor
+08C22,,Musculosceletal malignancy,est/swe/lat/ice/den/fin/nor
+08C23,,Connective tissue malignancy,est/swe/lat/ice/den/fin/nor
+08C24,,Skeletal system anomaly,est/swe/lat/ice/den/fin/nor
+08C25,,Reactive arthritis,est/swe/lat/ice/den/fin/nor
+08C30,,Traumatic rupture of intervertebral disc,est/swe/lat/ice/den/fin/nor
+08C80,,Haemarthrosis,est/swe/lat/ice/den/fin/nor
+08C81,,Traumatic ischaemia of muscle,est/swe/lat/ice/den/fin/nor
+08G01,,Myositis or tendinitis- major CC,est/swe/lat/ice/den/fin/nor
+08G02,,Arteritis in connective tissue disease- major CC,est/swe/lat/ice/den/fin/nor
+08G03,,Fracture of femur- major CC,est/swe/lat/ice/den/fin/nor
+08G05,,Pelvic fracture- major CC,est/swe/lat/ice/den/fin/nor
+08G07,,Pyogenic arthritis- major CC,est/swe/lat/ice/den/fin/nor
+08G08,,Osteopathy- major CC,est/swe/lat/ice/den/fin/nor
+08G09,,Pathologic fracture- major CC,est/swe/lat/ice/den/fin/nor
+08G10,,Complicated rheumatoid arthritis- major CC,est/swe/lat/ice/den/fin/nor
+08G11,,SLE- major CC,est/swe/lat/ice/den/fin/nor
+08G12,,Dermatopolymyositis- major CC,est/swe/lat/ice/den/fin/nor
+08G13,,Systemic sclerosis- major CC,est/swe/lat/ice/den/fin/nor
+08G14,,Other diffuse connective tissue diseases- major CC,est/swe/lat/ice/den/fin/nor
+08G15,,Postlaminectomy syndrome- major CC,est/swe/lat/ice/den/fin/nor
+08G16,,Torticollis- major CC,est/swe/lat/ice/den/fin/nor
+08G17,,Mal/nonunion of fracture- major CC,est/swe/lat/ice/den/fin/nor
+08G18,,Psoriatic arthropathy- major CC,est/swe/lat/ice/den/fin/nor
+08G19,,Fracture of cervical vertebra- major CC,est/swe/lat/ice/den/fin/nor
+08G20,,Fracture of other vertebra- major CC,est/swe/lat/ice/den/fin/nor
+08G21,,Dislocation of cervical vertebra- major CC,est/swe/lat/ice/den/fin/nor
+08G22,,Musculosceletal malignancy- major CC,est/swe/lat/ice/den/fin/nor
+08G23,,Connective tissue malignancy- major CC,est/swe/lat/ice/den/fin/nor
+08G24,,Skeletal system anomaly- major CC,est/swe/lat/ice/den/fin/nor
+08G25,,Reactive arthritis- major CC,est/swe/lat/ice/den/fin/nor
+08G30,,Traumatic rupture of intervertebral disc- major CC,est/swe/lat/ice/den/fin/nor
+08G80,,Haemarthrosis- major CC,est/swe/lat/ice/den/fin/nor
+08G81,,Traumatic ischaemia of muscle- major CC,est/swe/lat/ice/den/fin/nor
+08I05,08X01,"Pelvic fracture, needs activation",est/swe/lat/ice/den/fin/nor
+09C01,,Open wound of chest,est/swe/lat/ice/den/fin/nor
+09C02,,Impetigo,est/swe/lat/ice/den/fin/nor
+09C03,,Pilonidal cys with abscess,est/swe/lat/ice/den/fin/nor
+09C04,,Cellulitis,est/swe/lat/ice/den/fin/nor
+09C05,,Decubitus ulcer,swe/lat/ice/den/nor
+09C06,,Chronic ulcer of leg,est/swe/lat/ice/den/fin/nor
+09C07,,Pemfigus or pemfigoid,est/swe/lat/ice/den/fin/nor
+09C08,,Toxic erythema,est/swe/lat/ice/den/fin/nor
+09C09,,Skin mucosis,est/swe/lat/ice/den/fin/nor
+09G01,,Open wound of chest- major CC,est/swe/lat/ice/den/fin/nor
+09G02,,Impetigo- major CC,est/swe/lat/ice/den/fin/nor
+09G03,,Pilonidal cys with abscess- major CC,est/swe/lat/ice/den/fin/nor
+09G04,,Cellulitis- major CC,est/swe/lat/ice/den/fin/nor
+09G05,,Decubitus ulcer- major CC,swe/lat/ice/den/nor
+09G06,,Chronic ulcer of leg- major CC,est/swe/lat/ice/den/fin/nor
+09G07,,Pemfigus or pemfigoid- major CC,est/swe/lat/ice/den/fin/nor
+09G08,,Toxic erythema- major CC,est/swe/lat/ice/den/fin/nor
+09G09,,Skin mucosis- major CC,est/swe/lat/ice/den/fin/nor
+10C01,,Cystic fibrosis,est/swe/lat/ice/den/fin/nor
+10C02,,Complicated diabetes,est/swe/lat/ice/den/fin/nor
+10C03,,Cushing syndrome,est/swe/lat/ice/den/fin/nor
+10C04,,Other adrenal dysfunction,est/swe/lat/ice/den/fin/nor
+10C05,,Hypoglycemic coma,est/swe/lat/ice/den/fin/nor
+10C06,,Postsurgical hypoglycemia,est/swe/lat/ice/den/fin/nor
+10C07,,Hypoparathyroidism,est/swe/lat/ice/den/fin/nor
+10C08,,Thyreotoxicosis,est/swe/lat/ice/den/fin/nor
+10C09,,Severe malnutrition,est/swe/lat/ice/den/fin/nor
+10C10,,Fluid and acid-base unbalance,est/swe/lat/ice/den/fin/nor
+10C11,,Tetany,est/swe/lat/ice/den/fin/nor
+10C12,,Carcinoid syndrome,est/swe/lat/ice/den/fin/nor
+10C13,,Panhypopituitarism,est/swe/lat/ice/den/fin/nor
+10C14,,Diabetes insipidus,est/swe/lat/ice/den/fin/nor
+10C15,,Endocrine malignancy,est/swe/lat/ice/den/fin/nor
+10C16,,Metabolic disturbance,est/swe/lat/ice/den/fin/nor
+10C80,,Deficiency of vitamin K,est/swe/lat/ice/den/fin/nor
+10G01,,Cystic fibrosis- major CC,est/swe/lat/ice/den/fin/nor
+10G02,,Complicated diabetes- major CC,est/swe/lat/ice/den/fin/nor
+10G03,,Cushing syndrome- major CC,est/swe/lat/ice/den/fin/nor
+10G04,,Other adrenal dysfunction- major CC,est/swe/lat/ice/den/fin/nor
+10G05,,Hypoglycemic coma- major CC,est/swe/lat/ice/den/fin/nor
+10G06,,Postsurgical hypoglycemia- major CC,est/swe/lat/ice/den/fin/nor
+10G07,,Hypoparathyroidism- major CC,est/swe/lat/ice/den/fin/nor
+10G08,,Thyreotoxicosis- major CC,est/swe/lat/ice/den/fin/nor
+10G09,,Severe malnutrition- major CC,est/swe/lat/ice/den/fin/nor
+10G10,,Fluid and acid-base unbalance- major CC,est/swe/lat/ice/den/fin/nor
+10G11,,Tetany- major CC,est/swe/lat/ice/den/fin/nor
+10G12,,Carcinoid syndrome- major CC,est/swe/lat/ice/den/fin/nor
+10G13,,Panhypopituitarism- major CC,est/swe/lat/ice/den/fin/nor
+10G14,,Diabetes insipidus- major CC,est/swe/lat/ice/den/fin/nor
+10G15,,Endocrine malignancy- major CC,est/swe/lat/ice/den/fin/nor
+10G16,,Metabolic disturbance- major CC,est/swe/lat/ice/den/fin/nor
+10G80,,Deficiency of vitamin K- major CC,est/swe/lat/ice/den/fin/nor
+10I10,19X01,"Fluid and acid-base unbalance, needs activation",est/swe/lat/ice/den/fin/nor
+11C01,,Secondary malignancy of urinary tract,est/swe/lat/ice/den/fin/nor
+11C02,,Malignant neoplasm of kidney,est/swe/lat/ice/den/fin/nor
+11C03,,Malignant neoplasm of other parts of urinary tract,est/swe/lat/ice/den/fin/nor
+11C04,,Tuberculosis of urinary tract,est/swe/lat/ice/den/fin/nor
+11C05,,Genitourinary tuberculosis,est/swe/lat/ice/den/fin/nor
+11C06,,Kidney transplant status,est/swe/lat/ice/den/fin/nor
+11C07,,Cystitits,est/swe/lat/ice/den/fin/nor
+11C08,,Acute renal isufficiency,est/swe/lat/ice/den/fin/nor
+11C09,,Acute or complicated pyelonephritis,est/swe/lat/ice/den/fin/nor
+11C10,,Ureter stone,est/swe/lat/ice/den/fin/nor
+11C11,,Uretrhral abscess,est/swe/lat/ice/den/fin/nor
+11C12,,Urinary tract infection NOS,est/swe/lat/ice/den/fin/nor
+11C13,,Hydroureter,est/swe/lat/ice/den/fin/nor
+11C14,,Vesical fistula,est/swe/lat/ice/den/fin/nor
+11C15,,"Bladder ruptura, nontraumatic",est/swe/lat/ice/den/fin/nor
+11C16,,Traumatic or postoperational urethral stricture,est/swe/lat/ice/den/fin/nor
+11C17,,Obstructive or reflux uropathy,est/swe/lat/ice/den/fin/nor
+11C18,,Hematuria,est/swe/lat/ice/den/fin/nor
+11C19,,Nephritis or nephrosis,est/swe/lat/ice/den/fin/nor
+11C20,,Retention of urine,est/swe/lat/ice/den/fin/nor
+11C21,,Chyluria,est/swe/lat/ice/den/fin/nor
+11C22,,Myoglonuria,est/swe/lat/ice/den/fin/nor
+11C24,,Injury of bladder or urethra,est/swe/lat/ice/den/fin/nor
+11C26,,Complication of transplant of graft in genitourinary tract,est/swe/lat/ice/den/fin/nor
+11C27,,Urinary system anomaly,est/swe/lat/ice/den/fin/nor
+11C80,,Renal tubulo-interstitial disorders in transplant rejection (T86.-+),est/swe/lat/ice/den/fin/nor
+11G01,,Secondary malignancy of urinary tract- major CC,est/swe/lat/ice/den/fin/nor
+11G02,,Malignant neoplasm of kidney- major CC,est/swe/lat/ice/den/fin/nor
+11G03,,Malignant neoplasm of other parts of urinary tract- major CC,est/swe/lat/ice/den/fin/nor
+11G04,,Tuberculosis of urinary tract- major CC,est/swe/lat/ice/den/fin/nor
+11G05,,Genitourinary tuberculosis- major CC,est/swe/lat/ice/den/fin/nor
+11G06,,Kidney transplant status- major CC,est/swe/lat/ice/den/fin/nor
+11G07,,Cystitits- major CC,est/swe/lat/ice/den/fin/nor
+11G08,,Acute renal isufficiency- major CC,est/swe/lat/ice/den/fin/nor
+11G09,,Acute or complicated pyelonephritis- major CC,est/swe/lat/ice/den/fin/nor
+11G10,,Ureter stone- major CC,est/swe/lat/ice/den/fin/nor
+11G11,,Uretrhral abscess- major CC,est/swe/lat/ice/den/fin/nor
+11G12,,Urinary tract infection NOS- major CC,est/swe/lat/ice/den/fin/nor
+11G13,,Hydroureter- major CC,est/swe/lat/ice/den/fin/nor
+11G14,,Vesical fistula- major CC,est/swe/lat/ice/den/fin/nor
+11G15,,"Bladder ruptura, nontraumatic- major CC",est/swe/lat/ice/den/fin/nor
+11G16,,Traumatic or postoperational urethral stricture- major CC,est/swe/lat/ice/den/fin/nor
+11G17,,Obstructive or reflux uropathy- major CC,est/swe/lat/ice/den/fin/nor
+11G18,,Hematuria- major CC,est/swe/lat/ice/den/fin/nor
+11G19,,Nephritis or nephrosis- major CC,est/swe/lat/ice/den/fin/nor
+11G20,,Retention of urine- major CC,est/swe/lat/ice/den/fin/nor
+11G21,,Chyluria- major CC,est/swe/lat/ice/den/fin/nor
+11G22,,Myoglonuria- major CC,est/swe/lat/ice/den/fin/nor
+11G24,,Injury of bladder or urethra- major CC,est/swe/lat/ice/den/fin/nor
+11G26,,Complication of transplant of graft in genitourinary tract- major CC,est/swe/lat/ice/den/fin/nor
+11G27,,Urinary system anomaly- major CC,est/swe/lat/ice/den/fin/nor
+11G80,,Renal tubulo-interstitial disorders in transplant rejection (T86.-+)- major CC,est/swe/lat/ice/den/fin/nor
+12C01,,Tuberculosis of male genital organs,est/swe/lat/ice/den/fin/nor
+12C02,,Prostatic inflammation,est/swe/lat/ice/den/fin/nor
+12C03,,Infected hydrocele,est/swe/lat/ice/den/fin/nor
+12C04,,Orchitis with abscess,est/swe/lat/ice/den/fin/nor
+12C05,,Circulatory problem of male genital organs,est/swe/lat/ice/den/fin/nor
+12G01,,Tuberculosis of male genital organs- major CC,est/swe/lat/ice/den/fin/nor
+12G02,,Prostatic inflammation- major CC,est/swe/lat/ice/den/fin/nor
+12G03,,Infected hydrocele- major CC,est/swe/lat/ice/den/fin/nor
+12G04,,Orchitis with abscess- major CC,est/swe/lat/ice/den/fin/nor
+12G05,,Circulatory problem of male genital organs- major CC,est/swe/lat/ice/den/fin/nor
+13C01,,Tuberculosis of female genital organs,est/swe/lat/ice/den/fin/nor
+13C02,,Acute inflammation of uterus/adenex,est/swe/lat/ice/den/fin/nor
+13C03,,Abscess of vulva or Bartholin's gland,est/swe/lat/ice/den/fin/nor
+13C04,,Broad ligament hematoma,est/swe/lat/ice/den/fin/nor
+13C05,,Fistel to female vaginal fistel,est/swe/lat/ice/den/fin/nor
+13G01,,Tuberculosis of female genital organs- major CC,est/swe/lat/ice/den/fin/nor
+13G02,,Acute inflammation of uterus/adenex- major CC,est/swe/lat/ice/den/fin/nor
+13G03,,Abscess of vulva or Bartholin's gland- major CC,est/swe/lat/ice/den/fin/nor
+13G04,,Broad ligament hematoma- major CC,est/swe/lat/ice/den/fin/nor
+13G05,,Fistel to female vaginal fistel- major CC,est/swe/lat/ice/den/fin/nor
+14C01,,Postabortion complication,est/swe/lat/ice/den/fin/nor
+14C02,,Threatend abortion,est/swe/lat/ice/den/fin/nor
+14C04,,Obstetric rupture,est/swe/lat/ice/den/fin/nor
+14C05,,Other complication of delivery,est/swe/lat/ice/den/fin/nor
+14C06,,Hemorrahage complicating pregnancy,est/swe/lat/ice/den/fin/nor
+14C07,,Toxemia/preeclampsia,est/swe/lat/ice/den/fin/nor
+14C08,,Genitourinary tract infection during pregnancy,est/swe/lat/ice/den/fin/nor
+14C09,,Thrombophlebitis in pregnancy,est/swe/lat/ice/den/fin/nor
+14C10,,Abortion,est/swe/lat/ice/den/fin/nor
+14C11,,Liver disease in pregnancy,est/swe/lat/ice/den/fin/nor
+14C12,,Other infections complicating pregnancy,est/swe/lat/ice/den/fin/nor
+14C13,,Diabetes in pregnancy,est/swe/lat/ice/den/fin/nor
+14C14,,Postpartym coagulation deficiency,est/swe/lat/ice/den/fin/nor
+14C15,,Pulmonary complication of pregnancy,est/swe/lat/ice/den/fin/nor
+14C16,,Heart complication of pregnancy,est/swe/lat/ice/den/fin/nor
+14C17,,Central nervous system complication of pregnancy,est/swe/lat/ice/den/fin/nor
+14C18,,Anesthetic complication of pregnancy,est/swe/lat/ice/den/fin/nor
+14C19,,Obstetric embolism,est/swe/lat/ice/den/fin/nor
+14C20,,Obstetric wound complication,est/swe/lat/ice/den/fin/nor
+14C21,,Supervision  of high-risk pregnancy,est/swe/lat/ice/den/fin/nor
+14C22,,Complications of fertility procedures,est/swe/lat/ice/den/fin/nor
+14C23,,Extrauterine gravidity,est/swe/lat/ice/den/fin/nor
+14G01,,Postabortion complication- major CC,est/swe/lat/ice/den/fin/nor
+14G02,,Threatend abortion- major CC,est/swe/lat/ice/den/fin/nor
+14G04,,Obstetric rupture- major CC,est/swe/lat/ice/den/fin/nor
+14G05,,Other complication of delivery- major CC,est/swe/lat/ice/den/fin/nor
+14G06,,Hemorrahage complicating pregnancy- major CC,est/swe/lat/ice/den/fin/nor
+14G07,,Toxemia/preeclampsia- major CC,est/swe/lat/ice/den/fin/nor
+14G08,,Genitourinary tract infection during pregnancy- major CC,est/swe/lat/ice/den/fin/nor
+14G09,,Thrombophlebitis in pregnancy- major CC,est/swe/lat/ice/den/fin/nor
+14G10,,Abortion- major CC,est/swe/lat/ice/den/fin/nor
+14G11,,Liver disease in pregnancy- major CC,est/swe/lat/ice/den/fin/nor
+14G12,,Other infections complicating pregnancy- major CC,est/swe/lat/ice/den/fin/nor
+14G13,,Diabetes in pregnancy- major CC,est/swe/lat/ice/den/fin/nor
+14G14,,Postpartym coagulation deficiency- major CC,est/swe/lat/ice/den/fin/nor
+14G15,,Pulmonary complication of pregnancy- major CC,est/swe/lat/ice/den/fin/nor
+14G16,,Heart complication of pregnancy- major CC,est/swe/lat/ice/den/fin/nor
+14G17,,Central nervous system complication of pregnancy- major CC,est/swe/lat/ice/den/fin/nor
+14G18,,Anesthetic complication of pregnancy- major CC,est/swe/lat/ice/den/fin/nor
+14G19,,Obstetric embolism- major CC,est/swe/lat/ice/den/fin/nor
+14G20,,Obstetric wound complication- major CC,est/swe/lat/ice/den/fin/nor
+14G21,,Supervision  of high-risk pregnancy- major CC,est/swe/lat/ice/den/fin/nor
+14G22,,Complications of fertility procedures- major CC,est/swe/lat/ice/den/fin/nor
+14G23,,Extrauterine gravidity- major CC,est/swe/lat/ice/den/fin/nor
+15C01,,Neonatal complication,est/swe/lat/ice/den/fin/nor
+15G01,,Neonatal complication- major CC,est/swe/lat/ice/den/fin/nor
+16C01,,Sarcoidosis,est/swe/lat/ice/den/fin/nor
+16C02,,Abscess of thymus,est/swe/lat/ice/den/fin/nor
+16C03,,Severe immunoglobulindeficiency,est/swe/lat/ice/den/fin/nor
+16C04,,Complicated anemia,est/swe/lat/ice/den/fin/nor
+16C05,,Complicated coagulation disorder,est/swe/lat/ice/den/fin/nor
+16C06,,Disorder of granulocytes,est/swe/lat/ice/den/fin/nor
+16C07,,Acute posthemorrhagic anemia,est/swe/lat/ice/den/fin/nor
+16G01,,Sarcoidosis- major CC,est/swe/lat/ice/den/fin/nor
+16G02,,Abscess of thymus- major CC,est/swe/lat/ice/den/fin/nor
+16G03,,Severe immunoglobulindeficiency- major CC,est/swe/lat/ice/den/fin/nor
+16G04,,Complicated anemia- major CC,est/swe/lat/ice/den/fin/nor
+16G05,,Complicated coagulation disorder- major CC,est/swe/lat/ice/den/fin/nor
+16G06,,Disorder of granulocytes- major CC,est/swe/lat/ice/den/fin/nor
+16G07,,Acute posthemorrhagic anemia- major CC,est/swe/lat/ice/den/fin/nor
+17C01,,Disseminated Kaposi's sarcoma,est/swe/lat/ice/den/fin/nor
+17C02,,Complicated malignant neoplasm,est/swe/lat/ice/den/fin/nor
+17C03,,Malignant neoplasm of lymph nodes,est/swe/lat/ice/den/fin/nor
+17C04,,Lymphoma or other and unspecifided malignancy of hematopoetic tissue,est/swe/lat/ice/den/fin/nor
+17C05,,Myeloma and leukemia,est/swe/lat/ice/den/fin/nor
+17C06,,Macroglobulinemia,est/swe/lat/ice/den/fin/nor
+17G01,,Disseminated Kaposi's sarcoma- major CC,est/swe/lat/ice/den/fin/nor
+17G02,,Complicated malignant neoplasm- major CC,est/swe/lat/ice/den/fin/nor
+17G03,,Malignant neoplasm of lymph nodes- major CC,est/swe/lat/ice/den/fin/nor
+17G04,,Lymphoma or other and unspecifided malignancy of hematopoetic tissue- major CC,est/swe/lat/ice/den/fin/nor
+17G05,,Myeloma and leukemia- major CC,est/swe/lat/ice/den/fin/nor
+17G06,,Macroglobulinemia- major CC,est/swe/lat/ice/den/fin/nor
+18C01,,Complicated gonococcal infection,est/swe/lat/ice/den/fin/nor
+18C02,,"Measlas, complicated",est/swe/lat/ice/den/fin/nor
+18C03,,Complicated syphilis,est/swe/lat/ice/den/fin/nor
+18C04,,Candidiosis,est/swe/lat/ice/den/fin/nor
+18C05,,Coccicioidomycosis,est/swe/lat/ice/den/fin/nor
+18C06,,Histoplasmosis NOS/NEC,est/swe/lat/ice/den/fin/nor
+18C07,,Histoplasmosis pneumonia,est/swe/lat/ice/den/fin/nor
+18C08,,Other severe mycosis,est/swe/lat/ice/den/fin/nor
+18C10,,Other meningococcal infections,est/swe/lat/ice/den/fin/nor
+18C11,,Other varicella,est/swe/lat/ice/den/fin/nor
+18C12,,"Mumps, complicated",est/swe/lat/ice/den/fin/nor
+18C13,,Complicated herpes,est/swe/lat/ice/den/fin/nor
+18C14,,Rubella nervous system complication,est/swe/lat/ice/den/fin/nor
+18C15,,Pneumocystosis,est/swe/lat/ice/den/fin/nor
+18C16,,Complicated  infection or late effect of infectious diasease,est/swe/lat/ice/den/fin/nor
+18C17,,Complicated toxoplasmosis,est/swe/lat/ice/den/fin/nor
+18C18,,Tuberculosis,est/swe/lat/ice/den/fin/nor
+18C19,,Tetanus,est/swe/lat/ice/den/fin/nor
+18C20,,Septicemia,est/swe/lat/ice/den/fin/nor
+18C21,,Cytomegalovirus infection,est/swe/lat/ice/den/fin/nor
+18C22,,HIV infection,est/swe/lat/ice/den/fin/nor
+18C23,,Complex malaria,est/swe/lat/ice/den/fin/nor
+18C24,,Dengue fever,swe/lat/fin/nor
+18C25,,Influenza,est/swe/lat/ice/den/fin/nor
+18C80,,Severe sepsis,swe/lat/ice/den/nor/est/fin
+18C81,,Septic shock,swe/lat/ice/den/nor
+18C90,,Other severe infection,est/swe/lat/ice/den/fin/nor
+18C99,,Complicated infection,est/swe/lat/ice/den/fin/nor
+18G01,,Complicated gonococcal infection- major CC,est/swe/lat/ice/den/fin/nor
+18G02,,"Measlas, complicated- major CC",est/swe/lat/ice/den/fin/nor
+18G03,,Complicated syphilis- major CC,est/swe/lat/ice/den/fin/nor
+18G04,,Candidiosis- major CC,est/swe/lat/ice/den/fin/nor
+18G05,,Coccicioidomycosis- major CC,est/swe/lat/ice/den/fin/nor
+18G06,,Histoplasmosis NOS/NEC- major CC,est/swe/lat/ice/den/fin/nor
+18G07,,Histoplasmosis pneumonia- major CC,est/swe/lat/ice/den/fin/nor
+18G08,,Other severe mycosis- major CC,est/swe/lat/ice/den/fin/nor
+18G10,,Other meningococcal infections- major CC,est/swe/lat/ice/den/fin/nor
+18G11,,Other varicella- major CC,est/swe/lat/ice/den/fin/nor
+18G12,,"Mumps, complicated- major CC",est/swe/lat/ice/den/fin/nor
+18G13,,Complicated herpes- major CC,est/swe/lat/ice/den/fin/nor
+18G14,,Rubella nervous system complication- major CC,est/swe/lat/ice/den/fin/nor
+18G15,,Pneumocystosis- major CC,est/swe/lat/ice/den/fin/nor
+18G16,,Complicated  infection or late effect of infectious diasease- major CC,est/swe/lat/ice/den/fin/nor
+18G17,,Complicated toxoplasmosis- major CC,est/swe/lat/ice/den/fin/nor
+18G18,,Tuberculosis- major CC,est/swe/lat/ice/den/fin/nor
+18G19,,Tetanus- major CC,est/swe/lat/ice/den/fin/nor
+18G20,,Septicemia- major CC,est/swe/lat/ice/den/fin/nor
+18G21,,Cytomegalovirus infection- major CC,est/swe/lat/ice/den/fin/nor
+18G22,,HIV infection- major CC,est/swe/lat/ice/den/fin/nor
+18G23,,Complex malaria- major CC,est/swe/lat/ice/den/fin/nor
+18G24,,Dengue fever- major CC,swe/lat/fin/nor
+18G25,,Influenza- major CC,est/swe/lat/ice/den/fin/nor
+18G80,,Severe sepsis- major CC,swe/lat/ice/den/nor/est/fin
+18G81,,Septic shock- major CC,swe/lat/ice/den/nor
+18G90,,Other severe infection- major CC,est/swe/lat/ice/den/fin/nor
+18G99,,Complicated infection- major CC,est/swe/lat/ice/den/fin/nor
+19C01,,Hallucinations,est/swe/lat/ice/den/fin/nor
+19C02,,Psychoses,est/swe/lat/ice/den/fin/nor
+19C03,,Anorexia nervosa,est/swe/lat/ice/den/fin/nor
+19C04,,Psychosis associated with alcohol and drug abuse,est/swe/lat/ice/den/fin/nor
+19C05,,Dementia,est/swe/lat/ice/den/fin/nor
+19C07,,Other psychiatric problems,est/swe/lat/ice/den/fin/nor
+19G01,,Hallucinations- major CC,est/swe/lat/ice/den/fin/nor
+19G02,,Psychoses- major CC,est/swe/lat/ice/den/fin/nor
+19G03,,Anorexia nervosa- major CC,est/swe/lat/ice/den/fin/nor
+19G04,,Psychosis associated with alcohol and drug abuse- major CC,est/swe/lat/ice/den/fin/nor
+19G05,,Dementia- major CC,est/swe/lat/ice/den/fin/nor
+19G07,,Other psychiatric problems- major CC,est/swe/lat/ice/den/fin/nor
+20C01,,Abuse,est/swe/lat/ice/den/fin/nor
+20C02,,Psyciatric maltreatment,est/swe/lat/ice/den/fin/nor
+20G01,,Abuse- major CC,est/swe/lat/ice/den/fin/nor
+20G02,,Psyciatric maltreatment- major CC,est/swe/lat/ice/den/fin/nor
+21C01,,Early complications of trauma,est/swe/lat/ice/den/fin/nor
+21C02,,Complication of surgical or other procedure,est/swe/lat/ice/den/fin/nor
+21C03,,Postoperative shock,est/swe/lat/ice/den/fin/nor
+21C04,,Hemorrahage complicating procedure,est/swe/lat/ice/den/fin/nor
+21C07,,Crushing injury of face,est/swe/lat/ice/den/fin/nor
+21C08,,Injury of vessels,est/swe/lat/ice/den/fin/nor
+21C09,,Injury of abdominal vessels,est/swe/lat/ice/den/fin/nor
+21C10,,Amputation,est/swe/lat/ice/den/fin/nor
+21C11,,Crushing injury of neck,est/swe/lat/ice/den/fin/nor
+21C12,,"Crushing injury, multiple site",est/swe/lat/ice/den/fin/nor
+21C13,,Complication of orthopaedic device,est/swe/lat/ice/den/fin/nor
+21C14,,Upper extremity trauma,est/swe/lat/ice/den/fin/nor
+21C15,,Injury on upper extremity vessels,est/swe/lat/ice/den/fin/nor
+21C16,,Lower extremity trauma,est/swe/lat/ice/den/fin/nor
+21C17,,Injury on lower extremity vessels,est/swe/lat/ice/den/fin/nor
+21C18,,Unspecified intoxication,est/swe/lat/ice/den/fin/nor
+21C19,,Asphyxiation or drowning,est/swe/lat/ice/den/fin/nor
+21C20,,Anaphylactic schock,est/swe/lat/ice/den/fin/nor
+21C21,,Infusion or injection complication,est/swe/lat/ice/den/fin/nor
+21C22,,Transplant rejection,est/swe/lat/ice/den/fin/nor
+21C80,,Heatstroke and sunstroke,est/swe/lat/ice/den/fin/nor
+21C81,,Immersion hand and foot,est/swe/lat/ice/den/fin/nor
+21C82,,Caisson disease [decompression sickness],est/swe/lat/ice/den/fin/nor
+21G01,,Early complications of trauma- major CC,est/swe/lat/ice/den/fin/nor
+21G02,,Complication of surgical or other procedure- major CC,est/swe/lat/ice/den/fin/nor
+21G03,,Postoperative shock- major CC,est/swe/lat/ice/den/fin/nor
+21G04,,Hemorrahage complicating procedure- major CC,est/swe/lat/ice/den/fin/nor
+21G07,,Crushing injury of face- major CC,est/swe/lat/ice/den/fin/nor
+21G08,,Injury of vessels- major CC,est/swe/lat/ice/den/fin/nor
+21G09,,Injury of abdominal vessels- major CC,est/swe/lat/ice/den/fin/nor
+21G10,,Amputation- major CC,est/swe/lat/ice/den/fin/nor
+21G11,,Crushing injury of neck- major CC,est/swe/lat/ice/den/fin/nor
+21G12,,"Crushing injury, multiple site- major CC",est/swe/lat/ice/den/fin/nor
+21G13,,Complication of orthopaedic device- major CC,est/swe/lat/ice/den/fin/nor
+21G14,,Upper extremity trauma- major CC,est/swe/lat/ice/den/fin/nor
+21G15,,Injury on upper extremity vessels- major CC,est/swe/lat/ice/den/fin/nor
+21G16,,Lower extremity trauma- major CC,est/swe/lat/ice/den/fin/nor
+21G17,,Injury on lower extremity vessels- major CC,est/swe/lat/ice/den/fin/nor
+21G18,,Unspecified intoxication- major CC,est/swe/lat/ice/den/fin/nor
+21G19,,Asphyxiation or drowning- major CC,est/swe/lat/ice/den/fin/nor
+21G20,,Anaphylactic schock- major CC,est/swe/lat/ice/den/fin/nor
+21G21,,Infusion or injection complication- major CC,est/swe/lat/ice/den/fin/nor
+21G22,,Transplant rejection- major CC,est/swe/lat/ice/den/fin/nor
+21G80,,Heatstroke and sunstroke- major CC,est/swe/lat/ice/den/fin/nor
+21G81,,Immersion hand and foot- major CC,est/swe/lat/ice/den/fin/nor
+21G82,,Caisson disease [decompression sickness]- major CC,est/swe/lat/ice/den/fin/nor
+22C01,,Deep burn,est/swe/lat/ice/den/fin/nor
+22G01,,Deep burn- major CC,est/swe/lat/ice/den/fin/nor
+23C01,,Shock,est/swe/lat/ice/den/fin/nor
+23C02,,Dependence on respirator,est/swe/lat/ice/den/fin/nor
+23C04,,Compound anomalies,est/swe/lat/ice/den/fin/nor
+23C80,,Cachexia,est/swe/lat/ice/den/fin/nor
+23G01,,Shock- major CC,est/swe/lat/ice/den/fin/nor
+23G02,,Dependence on respirator- major CC,est/swe/lat/ice/den/fin/nor
+23G04,,Combound anomalies- major CC,est/swe/lat/ice/den/fin/nor
+23G80,,Cachexia- major CC,est/swe/lat/ice/den/fin/nor
+30C80,,"Mechanical complication of other breast prosthetic devices, implants and grafts",est/swe/lat/ice/den/fin/nor
+30G80,,"Mechanical complication of other breast prosthetic devices, implants and grafts- major CC",est/swe/lat/ice/den/fin/nor
+99C01,,Pelvic organ injury,est/swe/lat/ice/den/fin/nor
+99G01,,Pelvic organ injury- major CC,est/swe/lat/ice/den/fin/nor

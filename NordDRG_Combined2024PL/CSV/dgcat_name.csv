@@ -1,0 +1,195 @@
+dgcat,varval_text_comb,nat_ver
+00M00,Code does not belong to any major diagnosis category,est/swe/lat/ice/den/fin/nor
+01M01,Spinal disorders and injuries,est/swe/lat/ice/den/fin/nor
+01M02,Nervous system neoplasms,est/swe/lat/ice/den/fin/nor
+01M03,Degenerative nervous system disorders,est/swe/lat/ice/den/fin/nor
+01M04,MS and cerebellar ataxia,est/swe/lat/ice/den/fin/nor
+01M05,Specific cerebrovascular disorders except TIA,est/swe/lat/ice/den/fin/nor
+01M06,Transient ischemic attack and precerebral occlusions without infarction,est/swe/lat/ice/den/fin/nor
+01M07,Nonspecific cerebrovascular diseases,est/swe/lat/ice/den/fin/nor
+01M08,Cranial and peripheral nerve disorders,est/swe/lat/ice/den/fin/nor
+01M09,Infections except viral meningitis,est/swe/lat/ice/den/fin/nor
+01M10,Viral meningitis,est/swe/lat/ice/den/fin/nor
+01M12,Nontraumatic stupor or coma,est/swe/lat/ice/den/fin/nor
+01M13,Seizures and headaches,est/swe/lat/ice/den/fin/nor
+01M14,Injuries of the skull and the brain,est/swe/lat/ice/den/fin/nor
+01M15,Concussion,est/swe/lat/ice/den/fin/nor
+01M99,Other disorders of the nervous system,est/swe/lat/ice/den/fin/nor
+02M01,Hyphema,est/swe/lat/ice/den/fin/nor
+02M02,Acute major infections of eye,est/swe/lat/ice/den/fin/nor
+02M03,Neurological disorders of eye,est/swe/lat/ice/den/fin/nor
+02M99,Other disorders of the eye,est/swe/lat/ice/den/fin/nor
+03M01,"Malignancies of ear, nose, mouth and throat",est/swe/lat/ice/den/fin/nor
+03M02,Dysequilibrium,est/swe/lat/ice/den/fin/nor
+03M03,Epistaxis,est/swe/lat/ice/den/fin/nor
+03M04,Epiglottitis,est/swe/lat/ice/den/fin/nor
+03M05,Otitis media and upper respiratory infection,est/swe/lat/ice/den/fin/nor
+03M06,Laryngotracheitis,est/swe/lat/ice/den/fin/nor
+03M07,Nasal trauma and deformity,est/swe/lat/ice/den/fin/nor
+03M08,"Other ear, nose, mouth and throat diagnoses",est/swe/lat/ice/den/fin/nor
+03M10,Obstructive apnoe,est/swe/lat/ice/den/fin/nor
+03M99,Dental and oral diseases,est/swe/lat/ice/den/fin/nor
+04M01,Pulmonary embolism,est/swe/lat/ice/den/fin/nor
+04M02,Infections and inflammations of lower respiratory tract,est/swe/lat/ice/den/fin/nor
+04M03,Neoplasms of respiratory system,est/swe/lat/ice/den/fin/nor
+04M04,Major chest trauma,est/swe/lat/ice/den/fin/nor
+04M05,Pleural effusion,est/swe/lat/ice/den/fin/nor
+04M06,Pulmonary edema and respiratory failure,est/swe/lat/ice/den/fin/nor
+04M07,Chronic obstructive pulmonary disease,est/swe/lat/ice/den/fin/nor
+04M08,Simple pneumonia and pleurisy,est/swe/lat/ice/den/fin/nor
+04M09,Interstitial lung disease,est/swe/lat/ice/den/fin/nor
+04M10,Pneumothorax,est/swe/lat/ice/den/fin/nor
+04M11,Bronchitis and asthma,est/swe/lat/ice/den/fin/nor
+04M12,Signs and symptoms of respiratory system,est/swe/lat/ice/den/fin/nor
+04M99,Other respiratory system diagnoses,est/swe/lat/ice/den/fin/nor
+05M02,Acute and subacute endocarditis,est/swe/lat/ice/den/fin/nor
+05M03,Heart failure and shock,est/swe/lat/ice/den/fin/nor
+05M04,Deep vein thromboses,est/swe/lat/ice/den/fin/nor
+05M05,Cardiac arrest,est/swe/lat/ice/den/fin/nor
+05M06,Peripheral vascular diseases,est/swe/lat/ice/den/fin/nor
+05M07,Cardiac diseaese caused by atherosclerosis,est/swe/lat/ice/den/fin/nor
+05M08,Hypertension,est/swe/lat/ice/den/fin/nor
+05M09,Cardiac valvular diseases and congenital heart diseases,est/swe/lat/ice/den/fin/nor
+05M10,Arrhytmia and conduction disorders,est/swe/lat/ice/den/fin/nor
+05M11,Angina,est/swe/lat/ice/den/fin/nor
+05M12,Syncope and collapse,est/swe/lat/ice/den/fin/nor
+05M13,Chest pain,est/swe/lat/ice/den/fin/nor
+05M20,Aftercare for cardiovascular diseases,swe
+05M90,"Mechanical complication of coronary artery bypass, valve grafts and heart transplant",est/swe/lat/ice/den/fin/nor
+05M99,Other circulatory system diagnoses,est/swe/lat/ice/den/fin/nor
+06M02,Malignancy of digestive system,est/swe/lat/ice/den/fin/nor
+06M03,G.I. hemorrhage,est/swe/lat/ice/den/fin/nor
+06M04,Complicated peptic ulcer,est/swe/lat/ice/den/fin/nor
+06M05,Uncomplicated peptic ulcer,est/swe/lat/ice/den/fin/nor
+06M06,Inflammatory bowel disease,est/swe/lat/ice/den/fin/nor
+06M07,G.I. obstruction,est/swe/lat/ice/den/fin/nor
+06M08,"Esophagitis, gastroenteritis and miscellaneous digestive disorders",est/swe/lat/ice/den/fin/nor
+06M99,Other digestive system diagnoses,est/swe/lat/ice/den/fin/nor
+07M01,Cirrhosis and alcoholic hepatitis,est/swe/lat/ice/den/fin/nor
+07M02,Malignancy of hepatobiliary system and pancreas,est/swe/lat/ice/den/fin/nor
+07M03,Diseases of pancreas except malignancy,est/swe/lat/ice/den/fin/nor
+07M04,"Diseases of liver except malignancy, cirrhosis and alcoholic hepatitis",est/swe/lat/ice/den/fin/nor
+07M99,Diseases of biliary tract,est/swe/lat/ice/den/fin/nor
+08M01,Fracture of femur,est/swe/lat/ice/den/fin/nor
+08M02,Fracture of hip and pelvis,est/swe/lat/ice/den/fin/nor
+08M03,"Sprain, strain and dislocation of hip, pelvis and thigh",est/swe/lat/ice/den/fin/nor
+08M04,Osteomyelitis,est/swe/lat/ice/den/fin/nor
+08M05,Pathological fracture and malignancy,est/swe/lat/ice/den/fin/nor
+08M08,Medical back problems,est/swe/lat/ice/den/fin/nor
+08M09,Bone disease and specific arthropaties,est/swe/lat/ice/den/fin/nor
+08M11,Signs and symptoms of musculoskeletal system and connective tissue diseases,est/swe/lat/ice/den/fin/nor
+08M12,"Tendonitis, myositis and bursitis",est/swe/lat/ice/den/fin/nor
+08M13,Aftercare of musculoskeletal system and connective tissue diseases,est/swe/lat/ice/den/fin/nor
+08M14,"Fracture, sprain, strain and dislocation of forearm, hand and foot",est/swe/lat/ice/den/fin/nor
+08M15,"Fracture, sprain, strain and dislocaton of upper arm and lower leg",est/swe/lat/ice/den/fin/nor
+08M20,Infectious arthritis or bursitis,est/swe/lat/ice/den/fin/nor
+08M21,Specific inflammatory arthropaties,est/swe/lat/ice/den/fin/nor
+08M22,Other arthritis,est/swe/lat/ice/den/fin/nor
+08M23,Vasculitis or systemic connective tissue disease,est/swe/lat/ice/den/fin/nor
+08M24,Arthrosis,est/swe/lat/ice/den/fin/nor
+08M99,Other musculoskeletal system and connective tissue diagnoses,est/swe/lat/ice/den/fin/nor
+09M01,Cellulitis,est/swe/lat/ice/den/fin/nor
+09M02,Skin ulcer,est/swe/lat/ice/den/fin/nor
+09M03,Major skin disorders,est/swe/lat/ice/den/fin/nor
+09M06,Cellulitis like disorders,est/swe/lat/ice/den/fin/nor
+09M07,"Trauma of skin, subcutaneous tissue and breast",est/swe/lat/ice/den/fin/nor
+09M99,Minor skin disorders,est/swe/lat/ice/den/fin/nor
+10M01,Diabetes,est/swe/lat/ice/fin/nor
+10M02,Nutritional and misc. metabolic disorders,est/swe/lat/ice/den/fin/nor
+10M03,Inborn error of metabolism,est/swe/lat/ice/den/fin/nor
+10M99,Other endocrine diseases,est/swe/lat/ice/den/fin/nor
+11M01,Renal failure,est/swe/lat/ice/den/nor/fin
+11M02,Admit for dialysis,est/swe/lat/ice/den/fin/nor
+11M03,Neoplasm of kidney and urinary tract,est/swe/lat/ice/den/fin/nor
+11M04,Kidney and urinary tract infection,est/swe/lat/ice/den/fin/nor
+11M05,Urinary stones,est/swe/lat/ice/den/fin/nor
+11M06,Signs and symptoms of kidney and urinary tract,est/swe/lat/ice/den/fin/nor
+11M07,Urethral stricture,est/swe/lat/ice/den/fin/nor
+11M99,Other kidney and urinary tract diagnoses,est/swe/lat/ice/den/fin/nor
+12M01,Malignancy of male reproductive system,est/swe/lat/ice/den/fin/nor
+12M02,Benign prostatic hypertrophy,est/swe/lat/ice/den/fin/nor
+12M03,Infections of male reproductive system,est/swe/lat/ice/den/fin/nor
+12M99,Other male reproductive system diagnosis,est/swe/lat/ice/den/fin/nor
+13M01,Malignancy of female reproductive system,est/swe/lat/ice/den/fin/nor
+13M03,Infections of female reproductive system,est/swe/lat/ice/den/fin/nor
+13M99,Menstrual and other female reproductive system diagnoses,est/swe/lat/ice/den/fin/nor
+14M03,Ectopic pregnancy,est/swe/lat/ice/den/fin/nor
+14M04,Threatened abortion,est/swe/lat/ice/den/fin/nor
+14M06,False labor,est/swe/lat/ice/den/fin/nor
+14M99,Obstetrical problem,est/swe/lat/ice/den/fin/nor
+15M01,"Neonate, diagnosis invalid as discharge diagnosis",est/swe/lat/ice/den/fin/nor
+15M02,Normal newborn,est/swe/lat/ice/den/fin/nor
+15M99,Other newborn,est/swe/lat/ice/den/fin/nor
+16M01,Red blood cell disorders,est/swe/lat/ice/den/fin/nor
+16M02,Coagulation disorders,est/swe/lat/ice/den/fin/nor
+16M99,Reticuloendothelial and immunity disorders,est/swe/lat/ice/den/fin/nor
+17M01,Acute leukemia,est/swe/lat/ice/den/fin/nor
+17M02,Lymphoma or non-acute leukemia,est/swe/lat/ice/den/fin/nor
+17M05,History of malignancy,est/swe/lat/ice/den/fin/nor
+17M06,"Myeloproliferative diseases and disorders, poorly differentiated neoplasms",est/swe/lat/ice/den/fin/nor
+17M10,Radiotherapy,est/swe/lat/ice/den/fin
+17M11,Chemotherapy,est/swe/lat/ice/den/fin
+18M01,Septicemia,est/swe/lat/ice/den/fin/nor
+18M02,Postoperative and posttraumatic infection,est/swe/lat/ice/den/fin/nor
+18M03,Fewer of unknown origin,est/swe/lat/ice/den/fin/nor
+18M04,Viral illness,est/swe/lat/ice/den/fin/nor
+18M99,Other infectious and parasitic disease diagnosis,est/swe/lat/ice/den/fin/nor
+19M01,Bipolar disorders,est/swe/lat/ice/den/fin/nor
+19M02,Other mood disorders,est/swe/lat/ice/den/nor
+19M03,Anxiety disorders,est/swe/lat/ice/den/fin/nor
+19M04,Enduring personality changes,est/swe/lat/ice/den/nor
+19M05,Acute stressreaction,est/swe/lat/ice/den/nor
+19M06,Other neuroses,est/swe/lat/ice/den/nor
+19M07,Disorders of personality,est/swe/lat/ice/den/fin/nor
+19M08,Organic disturbances,est/swe/lat/ice/den/fin/nor
+19M10,Schizophrenia,est/swe/lat/ice/den/fin/nor
+19M11,Chronic non-schizophrenic psychosis,est/swe/lat/ice/den/nor
+19M12,Short-term non-schizophrenic psychosis,est/swe/lat/ice/den/nor
+19M13,Other psychotic syndromes,est/swe/lat/ice/den/nor
+19M20,Alcohol and drug abuse,est/swe/lat/ice/den/fin/nor
+19M30,Mental retardation,est/swe/lat/ice/den/fin/nor
+19M31,Neuropsychiatric disorders,est/swe/lat/ice/den/fin/nor
+19M32,Eating disorders,est/swe/lat/ice/den/fin/nor
+19M33,Other psychiatric disorders of childhood,est/swe/lat/ice/den/nor
+19M40,Alchohol addiction,fin
+19M41,Psychatric examination and observation,fin
+19M42,Delirium,fin
+19M43,Dementia,fin
+19M44,Tic disorder,fin
+19M45,Depression,fin
+19M46,Other addiction,fin
+19M47,Organic brain disorders,fin
+19M48,Neurocognitive disorders,fin
+19M49,Opiate addiction,fin
+19M50,Neurotic disorders,fin
+19M51,Psychosis,fin
+19M52,Abuse psychosis,fin
+19M53,Gender-identity related contacts,fin
+19M54,Congenital disorder,fin
+19M55,Behavioural and emotional disorders,fin
+19M56,Sleeping disorders,fin
+19M57,Severe organic disturbances,fin
+19M58,Impairment of mental functions,fin
+19M98,Other specific psychic disorders,est/swe/lat/ice/den/nor
+19M99,Other mental disorder diagnoses,est/swe/lat/ice/den/fin/nor
+21M01,Traumatic injury,est/swe/lat/ice/den/fin/nor
+21M02,Allergic reaction,est/swe/lat/ice/den/fin/nor
+21M03,Toxic effects of drugs or other chemicals,est/swe/lat/ice/den/fin/nor
+21M99,"Other injury, poisoning and toxic effects  diagnoses",est/swe/lat/ice/den/fin/nor
+22M99,Burn,est/swe/lat/ice/den/fin/nor
+23M01,Rehabilitation,est/swe/lat/ice/den/fin/nor
+23M02,Signs and symptoms,est/swe/lat/ice/den/fin/nor
+23M03,Aftercare,est/swe/lat/ice/den/fin/nor
+23M04,Follow-up,est/swe/lat/ice/fin/nor
+23M06,Genetics,fin/ice/nor
+23M99,Other factors influencing health status,est/swe/lat/ice/den/fin/nor
+24M99,Multiple significant trauma in two or more body regions,est/swe/lat/ice/den/fin/nor
+30M04,Malignant breast disorders,est/swe/lat/ice/den/fin/nor
+30M99,Other breast disorders,est/swe/lat/ice/den/fin/nor
+98M01,Malignancy,est/swe/lat/ice/den/fin/nor
+98M03,Infection or inflammation,est/swe/lat/ice/den/fin/nor
+98M04,Sterilization,est/swe/lat/ice/den/fin/nor
+98M99,Other reproductive organ diseases or disorders,est/swe/lat/ice/den/fin/nor
+99M00,Code not acceptable as principal diagnosis,est/swe/lat/ice/den/fin/nor
+99M01,New unspecified diagnosis,swe/ice/lat/fin/nor
+99M02,Missing diagnos information,swe

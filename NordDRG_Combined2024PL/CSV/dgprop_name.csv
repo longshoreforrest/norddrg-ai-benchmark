@@ -1,0 +1,219 @@
+dgprop,varval_text_comb,nat_ver
+00X10,General anesthesia,swe/lat/ice/est/fin
+00X63,Contact with patient or representative,swe
+00X90,Unplanned admission to inpatient care,swe/ice
+01K99,Diseases of nervous system,swe/lat/ice/est/fin
+01X01,Serious brain trauma,swe/lat/ice/den/nor/est/fin
+01X02,Brain trauma,swe/lat/ice/den/nor/est/fin
+01X03,Infarction or other non-transient cerebrovasc. disorder,swe/lat/ice/den/nor/est/fin
+01X04,Non specific cerebrovascular disorder,swe/lat/ice/den/nor/est/fin
+01X05,Stroke,swe
+01X23,Neurological signs and symptoms,ice
+01X90,Neurological problem,ice/nor
+01X99,Diseases of nervous system,nor
+02K99,Diseases and disorders of the eye,swe/lat/ice/est/fin
+02X02,Glaucoma,swe/lat/ice/den/nor/est/fin
+02X03,Retinal detachment and bleeding,swe/lat/ice/den/nor/est/fin
+02X10,Eye anesthesia,fin
+02X30,Uveitis,nor
+02X90,Eye problem,ice/nor
+02X99,Diseases and disorders of the eye,nor
+03K99,"Diseases and disorders of the ear, nose, mouth and throat",swe/lat/ice/est/fin
+03X04,"Cleft lip, gingiva or palate",swe/lat/ice/den/nor/est/fin
+03X10,Mouth anesthesia,fin
+03X90,ENM problem,ice/nor
+03X99,"Diseases and disorders of the ear, nose, mouth and throat",nor
+04K99,Diseases and disorders of the respiratory system,swe/lat/ice/est/fin
+04X01,Open wound of thorax,est/swe/lat/ice/den/fin/nor
+04X02,Respiratory obstruction,est/swe/lat/ice/den/fin/nor
+04X03,Respiratory failure,swe/lat/ice/den/est/fin
+04X10,Pneumonia associated with covid-19,fin/ice/swe
+04X11,Abscess of lung associated with covid-19,swe
+04X99,Diseases and disorders of the respiratory system,nor
+05K99,Diseases and disorders of the circulatory system,swe/lat/ice/est/fin
+05X01,Acute myocardial infarction,swe/lat/ice/den/nor/est/fin
+05X02,Cardiovascular complication,swe/lat/ice/den/nor/est/fin
+05X03,Other circulatory system complex diagnosis,swe/lat/ice/den/nor/est/fin
+05X04,Cardiac valve disorder,swe/lat/ice/den/nor/est/fin
+05X05,Heart failure,swe/lat/ice/den/nor/est/fin
+05X06,Hemangioma,swe/lat/ice/den/nor/est/fin
+05X07,Transplanted hearth,swe/lat/ice/den/nor/est/fin
+05X08,Coronary care emergency,lat/ice/den/nor/est/fin
+05X30,Tricuspid valve,swe/lat/ice/den/nor/est/fin
+05X31,Pulmonary valve,swe/lat/ice/den/nor/est/fin
+05X32,Mitral valve,swe/lat/ice/den/nor/est/fin
+05X33,Aortic valve,swe/lat/ice/den/nor/est/fin
+05X40,Aortic disease,nor
+05X99,Diseases and disorders of the circulatory system,nor
+06K99,Diseases and disorders of the digestive system,swe/lat/ice/est/fin
+06X01,Complicated appedicitis,swe/lat/ice/den/nor/est/fin
+06X02,Complicating factor in gastric ulcer,swe/lat/ice/den/nor/est/fin
+06X03,G.I. hemorrhage,nor
+06X04,Open wound of abdomen,swe/lat/ice/den/nor/est/fin
+06X06,Disease or disorder of oesophagus,swe/lat/ice/den/nor/est/fin
+06X07,Retroperitoenal non-malignant neoplasm,swe/lat/ice/den/nor/est/fin
+06X10,G.I. hemorrhage or other complication of G.I. ulcer,est/swe/lat/ice/den/fin/nor
+06X91,Gastrointestinal pain,nor
+06X99,Diseases and disorders of the digestive system,nor
+07K99,Diseases and disorders of the hepatobiliary system and pancreatic system,swe/lat/ice/est/fin
+07X99,Diseases and disorders of the hepatobiliary system and pancreatic system,nor
+08K99,Diseases and disorders of the musculoskeletal system and connective tissue,swe/lat/ice/est/fin
+08X01,Open wound of pelvic region,est/swe/lat/ice/den/fin/nor
+08X10,Disorder of the knee,swe/lat/ice/den/nor/est/fin
+08X11,Problem of the humerus,swe/lat/ice/den/nor/est/fin
+08X12,Problem of the foot,swe/lat/ice/den/nor/est/fin
+08X13,Problem of the shoulder,swe/lat/ice/den/nor/est/fin
+08X14,Problem of the hand,swe/lat/ice/den/nor/est/fin
+08X15,Problem of the ankle,swe/lat/ice/den/nor/est/fin
+08X20,Tumor of bone,swe/lat/ice/den/nor/est/fin
+08X21,Syndactyly,swe/lat/ice/den/nor/est/fin
+08X30,Orthopaedic lesion of facial area,swe/lat/ice/den/nor/est/fin
+08X80,Complicated problem of the arthroplasty,nor
+08X90,Orthopaedic problem,ice/nor
+08X99,Diseases and disorders of the musculoskeletal system and connective tissue,nor
+09K99,Diseases and disorders of the skin and subcutaneous tissue,swe/lat/ice/est/fin
+09X02,Erythema nodosum,swe/lat/ice/den/nor/est/fin
+09X03,Skin tuberculosis,swe/lat/ice/den/nor/est/fin
+09X04,Bitten or stung by nonvenomous insect,swe/lat/ice/den/est
+09X05,Local infection associated with trauma,swe/lat/ice/den/nor/est/fin
+09X06,Pilonidal sinus,swe/lat/ice/den/nor/est/fin
+09X07,Chronic ulcer,ice/nor
+09X21,"Extended skin excision, class II",swe
+09X99,Diseases and disorders of the skin and subcutaneous tissue,nor
+10K99,"Endocrine, nutritional and metabolic diseases and disorders",swe/lat/ice/est/fin
+10X01,Endocrinological disorder associated with testis,swe/lat/ice/den/nor/est/fin
+10X02,Pituitary tumor,swe/lat/ice/den/nor/est/fin
+10X03,Chronic complicated diabetes,swe/lat/ice/den/nor/est/fin
+10X99,"Endocrine, nutritional and metabolic diseases and disorders",nor
+11K99,Diseases and disorders of the kidney and urinary tract,swe/lat/ice/est/fin
+11X01,Nephritis or nephrosis,swe/lat/ice/den/nor/est/fin
+11X02,Vesicointestinal fistula,swe/lat/ice/den/nor/est/fin
+11X04,Kidney transplant status,nor
+11X05,Pre-surgical apheresis and adsorption,swe
+11X90,Urinary problem,ice/nor
+11X99,Diseases and disorders of the kidney and urinary tract,nor
+12K99,Diseases and disorders of the male reproductive system,swe/lat/ice/est/fin
+12X99,Diseases and disorders of the male reproductive system,nor
+13K99,Diseases and disorders of the female reproductive system,swe/lat/ice/est/fin
+13X05,Reproductive medicine problem,ice/nor
+13X90,Gynecological problem,ice/nor
+13X99,Diseases and disorders of the female reproductive system,nor
+14K99,"Pregnancy, childbirth and puerperium",swe/lat/ice/est/fin
+14X01,Mole,swe/lat/ice/den/nor/est/fin
+14X03,Delivery this admission,swe/lat/ice/den/nor/est/fin
+14X04,Intra- or postpartum,swe/lat/ice/den/nor/est/fin
+14X05,Postpartum or postabortum,swe/lat/ice/den/nor/est/fin
+14X07,Complication preeclampsia,nor/ice
+14X10,Antepartum complication,swe/lat/ice/den/nor/est/fin
+14X11,Complication of delivery,swe/lat/ice/den/nor/est/fin
+14X12,Complication of cesarean section,swe/lat/ice/den/nor/est/fin
+14X13,Forceps and vacuum delivery,lat/den/est/fin
+14X15,Preeclampsia,swe/fin
+14X31,Abortion,swe/lat/ice/den/nor/est/fin
+14X32,Postabortum,swe/lat/ice/den/nor/est/fin
+14X40,Pregnancy related problem,ice/nor
+14X41,Problem of the fetus,nor
+14X99,"Pregnancy, childbirth and puerperium",nor
+15K99,Newborns and other neonates with conditions originating in the delivery,swe/lat/ice/est/fin
+15X23,"Newborn, birtweight below 1000 g",swe/lat/ice/den/nor/est/fin
+15X24,"Newborn, birthweight 1000 - 1499 g",swe/lat/nor/est/fin
+15X25,"Newborn, birthweight 1500 - 2499 g",swe/lat/ice/den/nor/est/fin
+15X31,Neonatal respiratory problem,swe/lat/ice/den/nor/est/fin
+15X32,Neonatal CNS problem,swe/lat/ice/den/nor/est/fin
+15X33,Neonatal cardiac  or circulatory problem,swe/lat/ice/den/nor/est/fin
+15X34,Neonatal abdominal or retroperitoneal problem,swe/lat/ice/den/nor/est/fin
+15X35,Neonatal othopedic problem,swe/lat/ice/den/nor/est/fin
+15X36,Neonatal infection or metab. problem,swe/lat/ice/den/nor/est/fin
+15X37,Neonatal hematologic problem,swe/lat/ice/den/nor/est/fin
+15X40,Severe respiratory problem of newborn,swe/lat/ice/den/nor/est/fin
+15X91,Normal neontal finding,swe/lat/ice/den/nor/est/fin
+15X98,Other significant problem of neonate,swe/lat/ice/den/nor/est/fin
+15X99,Newborns and other neonates with conditions originating in the delivery,nor
+16K99,Diseases and disorders of the blood and blood forming organs,swe/lat/ice/est/fin
+16X99,Diseases and disorders of the blood and blood forming organs,nor
+17K99,"Myeloproliferative diseases and disorders, poorly differenti",swe/lat/ice/est/fin
+17X01,Acute leukemia,swe/lat/ice/den/est/fin
+17X99,"Myeloproliferative diseases and disorders, poorly differentiated",nor
+18K99,Infectious and parasitic diseases,swe/lat/ice/est/fin
+18X01,HIV infection,swe/lat/ice/den/nor/est/fin
+18X02,Major HIV related condition,lat/ice/den/nor/est/fin
+18X99,Infectious and parasitic diseases,nor
+19K99,Mental diseases and disorders,swe/lat/ice/est/fin
+19X01,Psychosis,swe/lat/ice/nor/est/fin/den
+19X99,Mental diseases and disorders,nor
+21K99,"Injuries, poisonings and toxic effects of drugs",swe/lat/ice/est/fin
+21X01,Open wound of forearm,swe/lat/ice/den/nor/est
+21X02,Open wound of the lower leg or ancle,swe/lat/ice/den/nor/est
+21X03,Open wound of shoulder or upper arm,swe/lat/ice/den/nor/est
+21X05,Complication of treatment,swe/lat/ice/den/nor/est/fin
+21X06,Allergic reaction,swe/lat/ice/den/nor/est/fin
+21X08,"Late effect off burn, corrosion or frostbite",swe/lat/ice/den/nor/est/fin
+21X99,"Injuries, poisonings and toxic effects of drugs",nor
+22K99,Burns,swe/lat/ice/est/fin
+22X01,Extensive burn or corrosion (more than 50%),swe/lat/ice/den/nor/est/fin
+22X02,Third degree burn and corrosion of head and neck,swe/lat/ice/den/nor/est/fin
+22X03,Third degree burn and corrosion of upper limb and hand,swe/lat/ice/den/nor/est/fin
+22X04,Third degree burn and corrosion of lower limb and foot,swe/lat/ice/den/nor/est/fin
+22X05,Third degree burn and corrosion of unspecified body region,swe/lat/ice/den/nor/est/fin
+22X10,Less extensive burn or corrosion (30-50%),swe/lat/ice/den/nor/est/fin
+22X99,Burns,nor
+23F02,Severe dependency in eating,swe/ice/den/est/fin
+23F11,Dependency in caring for body parts,swe/ice/den/est/fin
+23F31,Dependency in toileting,swe/ice/den/est/fin
+23F32,Severe dependency in toileting,swe/ice/den/est/fin
+23F41,Impairment of defecations functions,swe/ice/den/est/fin
+23F51,Dependency in transferring oneself,swe/ice/den/est/fin
+23F52,Severe dependency in transferring oneself,swe/ice/den/est/fin
+23F61,Dependency in walking,swe/ice/den/est/fin
+23F62,Severe dependency in walking,swe/ice/den/est/fin
+23F71,Dependency in moving around using equipment,swe/ice/den/est/fin
+23F72,Severe dependency in moving around using equipment,swe/ice/den/est/fin
+23F91,Dependency in interpersonal interactions and relationship,swe/ice/den/est/fin
+23K01,History of malignancy,swe/lat/ice/nor/est/fin
+23X10,Usual rehabilitation,nor
+23X11,Complex rehabilitation,nor
+23X20,Rehabilitation,swe/lat/ice/den/est/fin
+24K90,Multiple injury as second dg,swe/lat/est/fin
+24X10,Significant head or neck trauma,swe/lat/ice/den/nor/est
+24X11,Severe intracranial trauma,fin
+24X20,Significant chest trauma,swe/lat/ice/den/nor/est
+24X21,Thorax major injury except spine,fin
+24X22,Fracture or sprain of thoracic spine,fin
+24X30,Significant abdominal trauma,swe/lat/ice/den/nor/est
+24X31,Intra-abdominal major trauma,fin
+24X40,Significant kidney trauma,swe/lat/ice/den/nor/est
+24X41,"Fracture, dislocation or sprain of lumbar spine",fin
+24X50,Significant trauma of the genitourinary system,swe/lat/ice/den/nor/est
+24X60,Significant trauma of the pelvis and spine,swe/lat/ice/den/nor/est
+24X61,Pelvic major trauma except spinal,fin
+24X70,Significant trauma of the upper limb,swe/lat/ice/den/nor/est
+24X71,Significant trauma of lower arm,swe/lat/ice/den/nor/est
+24X72,Significant trauma of upper arm,swe/lat/ice/den/nor/est
+24X80,Significant trauma of the lower limb,swe/lat/ice/den/nor/est
+24X81,Significant trauma of lower leg,swe/lat/ice/den/nor/est
+24X90,Multiple injury,swe/lat/ice/den/nor/est
+30K99,Breast problem,swe/lat/ice/est/fin
+30X01,Malignant breast disorder,swe/lat/ice/den/nor/est/fin
+30X02,Cosmetic problem of breast,swe/lat/ice/den/nor/est/fin
+30X05,Procedure complicating breast surgery,fin/ice/nor/swe
+30X99,Breast problem,nor
+40X00,Deceased,swe
+50X55,Leading to CC,swe
+50X74,"In-depth drug evaluation, primary care",swe
+50X76,"Health check-up, primary care",swe
+50X79,"Measurement of blood pressure, primary care",swe
+90X01,Malignancy or history of malignancy,nor/fin
+90X02,Benign tumour,nor
+90X11,Severe or general pain,swe/ice
+90X12,Examination,ice/nor
+90X13,Patient education,nor
+90X15,Use of radiowaves,nor/ice
+93X93,Hembesök,swe
+98K99,Diseases and disorders of male/female reproductive organs,swe/lat/ice/den/est/fin
+98X99,Diseases and disorders of male/female reproductive organs,nor
+99X00,Right,swe/lat/ice/nor/est/fin
+99X02,Left,swe/lat/ice/nor/est/fin
+99X04,Bilateral,swe/lat/ice/nor/est/fin
+99X20,Medication delivered for home use,fin
+99X35,Medical doctor,swe
+99X50,Primary care,swe

@@ -1,0 +1,166 @@
+mdc,mdc_text_nat,mdc_text_comb,country
+0,PreMDC DRG,PreMDC DRG,est
+1,Närvihaigused,Diseases of nervous system,est
+2,Silmahaigused,Diseases and disorders of the eye,est
+3,"Kõrva-, nina-, suu- ja kurguhaigused","Diseases and disorders of the ear, nose, mouth and throat",est
+4,Hingamiselundite haigused,Diseases and disorders of the respiratory system,est
+5,Vereringehaigused,Diseases and disorders of the circulatory system,est
+6,Seedeelundite haigused,Diseases and disorders of the digestive system,est
+7,"Maksa, sapiteede ja kõhunäärme haigused",Diseases and disorders of the hepatobiliary system and pancreas,est
+8,Luulihaskonna ja sidekoe haigused,Diseases and disorders of the musculoskeletal system and connective tissue,est
+9,Naha ja nahaaluskoe haigused,Diseases and disorders of the skin and subcutaneous tissue,est
+10,"Endokriin-, toitumis- ja ainevahetushaigused","Endocrine, nutritional and metabolic diseases and disorders",est
+11,Neerude ja kuseteede haigused,Diseases and disorders of the kidney and urinary tract,est
+12,Mehe reproduktiivelundite haigused,Diseases and disorders of the male reproductive system,est
+13,Naise reproduktiivelundite haigused,Diseases and disorders of the female reproductive system,est
+14,"Rasedus, sünnitus ja sünnitusjärgsed seisundid ","Pregnancy, childbirth and puerperium",est
+15,Vastsündinute haigused,Newborns and other neonates with conditions originating in the perinatal period,est
+16,Vere ja vereloomeelundite haigused ning immuunmehhanismidega seotud haigused,Diseases and disorders of the blood and blood forming organs and immunological disorders,est
+17,"Müeloproliferatiivsed haigused, vähediferentseerunud kasvajad","Myeloproliferative diseases and disorders, poorly differentiated neoplasms",est
+18,Infektsioon- ja parasitaarhaigused,Infectious and parasitic diseases,est
+19,Psüühilised haigused,Mental diseases and disorders,est
+21,"Vigastused, mürgistused ja ravimite toksilised toimed","Injuries, poisonings and toxic effects of drugs",est
+22,Põletused,Burns,est
+23,Tervist mõjustavad tegurid ja muud kontaktid terviseteenistustega,Factors influencing health status and other contacts with health services,est
+24,Raske hulgitrauma,Multiple significant trauma,est
+30,Rinna haigusseisundid,Breast problem,est
+98,Mehe/naise reproduktiivelundite haigused,Diseases and disorders of male/female reprodutive organs,est
+99,Täpsustamata või vigane informatsioon,Unspecific or erroneous information,est
+0,PreMDC DRG,PreMDC DRG,fin
+1,Hermojärjestelmän sairaudet,Diseases of nervous system,fin
+2,Silmän sairaudet,Diseases and disorders of the eye,fin
+3,"Korvan, nenän ja kurkun sairaudet","Diseases and disorders of the ear, nose, mouth and throat",fin
+4,Hengityselinten sairaudet,Diseases and disorders of the respiratory system,fin
+5,Verenkiertoelinten sairaudet,Diseases and disorders of the circulatory system,fin
+6,Ruuansulatuskanavan sairaudet,Diseases and disorders of the digestive system,fin
+7,"Maksan, sappiteiden ja haiman sairaudet",Diseases and disorders of the hepatobiliary system and pancreas,fin
+8,Tuki- ja liikuntaelinten ja sidekudoksen sairaudet,Diseases and disorders of the musculoskeletal system and connective tissue,fin
+9,Ihon ja ihonalaisen kudoksen sairaudet,Diseases and disorders of the skin and subcutaneous tissue,fin
+10,"Endokriiniset, nutritionaaliset ja metaboliset  sairaudet","Endocrine, nutritional and metabolic diseases and disorders",fin
+11,Munuaisten ja virtsateiden sairaudet,Diseases and disorders of the kidney and urinary tract,fin
+12,Miehen lisääntymisjärjestelmän sairaudet,Diseases and disorders of the male reproductive system,fin
+13,Naisen lisääntymisjärjestelmän sairaudet,Diseases and disorders of the female reproductive system,fin
+14,"Raskaus, synnytys ja lapsivuodekausi","Pregnancy, childbirth and puerperium",fin
+15,Vastasyntyneet tai perinataalikaudella alkavat ongelmat,Newborns and other neonates with conditions originating in the perinatal period,fin
+16,"Veren, vertamuodostavan kudoksen ja immunologisen järjestelmän sairaudet",Diseases and disorders of the blood and blood forming organs and immunological disorders,fin
+17,Myeloproliferatiiviset sairaudet ja erilaistumattomat kasvaimet,"Myeloproliferative diseases and disorders, poorly differentiated neoplasms",fin
+18,Infektiosairaudet,Infectious and parasitic diseases,fin
+19,Psyykkiset sairaudet,Mental diseases and disorders,fin
+21,"Vammat, myrkytykset ja lääkkeiden toksiset vaikutukset","Injuries, poisonings and toxic effects of drugs",fin
+22,Palovammat,Burns,fin
+23,Terveydentilaan vaikuttavia tekijöitä,Factors influencing health status and other contacts with health services,fin
+24,Merkittävä monivamma,Multiple significant trauma,fin
+30,Rintarauhasen ongelma,Breast problem,fin
+98,Naisen/miehen lisääntymiselinten sairaus,Diseases and disorders of male/female reprodutive organs,fin
+99,Epäspesifinen tai virheellinen informaatio,Unspecific or erroneous information,fin
+0,Utan MGH hópa,PreMDC DRG,ice
+1,Sjúkdómar og raskanir í taugakerfi,Diseases of nervous system,ice
+2,Sjúkdómar og raskanir í auga,Diseases and disorders of the eye,ice
+3,"Sjúkdómar og raskanir í eyra, nefi, munni og hálsi","Diseases and disorders of the ear, nose, mouth and throat",ice
+4,Sjúkdómar og raskanir í öndunarfærum,Diseases and disorders of the respiratory system,ice
+5,Sjúkdómar og raskanir í blóðrásarkerfi,Diseases and disorders of the circulatory system,ice
+6,Sjúkdómar og raskanir í meltingarkerfi,Diseases and disorders of the digestive system,ice
+7,"Sjúkdómar og raskanir í lifur, gallkerfi og brisi",Diseases and disorders of the hepatobiliary system and pancreas,ice
+8,"Sjúkdómar og raskanir í vöðvum, beinum og bandvef",Diseases and disorders of the musculoskeletal system and connective tissue,ice
+9,Sjúkdómar og raskanir í húð og húðbeð,Diseases and disorders of the skin and subcutaneous tissue,ice
+10,"Innkirtla-, næringar- og efnaskiptasjúkdómar og raskanir","Endocrine, nutritional and metabolic diseases and disorders",ice
+11,Sjúkdómar og raskanir í nýra og þvagvegi,Diseases and disorders of the kidney and urinary tract,ice
+12,Sjúkdómar og raskanir í getnaðarfærum karla,Diseases and disorders of the male reproductive system,ice
+13,Sjúkdómar og raskanir í getnaðarfærum kvenna,Diseases and disorders of the female reproductive system,ice
+14,"Þungun, barnsburður og sængurlega","Pregnancy, childbirth and puerperium",ice
+15,Nýburar og önnur nýfædd börn með sjúkdóma sem rekja má til fósturskeiðs,Newborns and other neonates with conditions originating in the perinatal period,ice
+16,Sjúkdómar og raskanir í blóði og blóðmyndunarfærum og ónæmisraskanir,Diseases and disorders of the blood and blood forming organs and immunological disorders,ice
+17,Mergfrumufjölgunarsjúkdómar og -raskanir og illa sundurgreind æxli,"Myeloproliferative diseases and disorders, poorly differentiated neoplasms",ice
+18,Smit- og sníklasjúkdómar,Infectious and parasitic diseases,ice
+19,Geðsjúkdómar og raskanir,Mental diseases and disorders,ice
+21,"Áverkar, eitranir og eituráhrif lyfja","Injuries, poisonings and toxic effects of drugs",ice
+22,Brunar,Burns,ice
+23,Þættir sem áhrif hafa á heilbrigðisástand og önnur tengsl við heilbrigðisþjónustu,Factors influencing health status and other contacts with health services,ice
+24,Verulegir fjöláverkar,Multiple significant trauma,ice
+30,Sjúkdómar og raskanir í brjóstum,Breast problem,ice
+98,Sjúkdómar og raskanir í kynfærum karla/kvenna,Diseases and disorders of male/female reprodutive organs,ice
+99,Ósértækt eða rangar upplýsingar (villuflokkar),Unspecific or erroneous information,ice
+0,PreMDC DRG,PreMDC DRG,lat
+1,Nervu sistēmas slimības,Diseases of nervous system,lat
+2,Acs slimības un traucējumi,Diseases and disorders of the eye,lat
+3,"Auss, deguna, mutes un rīkles slimības un traucējumi","Diseases and disorders of the ear, nose, mouth and throat",lat
+4,Elpošanas sistēmas slimības un traucējumi,Diseases and disorders of the respiratory system,lat
+5,Asinsrites sistēmas slimības un traucējumi,Diseases and disorders of the circulatory system,lat
+6,Gremošanas sistēmas slimības un traucējumitraucējumi,Diseases and disorders of the digestive system,lat
+7,Aknas un aizkuņģa dziedzera slimības un traucējumi,Diseases and disorders of the hepatobiliary system and pancreas,lat
+8,"Skeleta, muskuļu un saistaudu slimības un traucējumi",Diseases and disorders of the musculoskeletal system and connective tissue,lat
+9,Ādas un zemādas slimības un traucējumi,Diseases and disorders of the skin and subcutaneous tissue,lat
+10,"Endokrīnās, uztura un vielmaiņas slimības un traucējumi","Endocrine, nutritional and metabolic diseases and disorders",lat
+11,Nieru un urīnizvadsistēmas slimības un traucējumi,Diseases and disorders of the kidney and urinary tract,lat
+12,Vīriešu reproduktīvās sistēmas slimības un traucējumi,Diseases and disorders of the male reproductive system,lat
+13,Sieviešu reproduktīvās sistēmas slimības un traucējumi,Diseases and disorders of the female reproductive system,lat
+14,"Grūtniecība, dzemdības un pēcdzemdību periods","Pregnancy, childbirth and puerperium",lat
+15,"Jaundzimušie, ar stāvokļiem, kas radušies perinatālā periodā",Newborns and other neonates with conditions originating in the perinatal period,lat
+16,"Asins, asinsrades orgānu un imunoloģisko traucējumu slimības ",Diseases and disorders of the blood and blood forming organs and immunological disorders,lat
+17,"Mieloproliferatīvās slimības un traucējumi, maz diferencēti audzēji","Myeloproliferative diseases and disorders, poorly differentiated neoplasms",lat
+18,Infekciju un parazitārās slimības,Infectious and parasitic diseases,lat
+19,Psihiskās slimības un traucējumi,Mental diseases and disorders,lat
+21,"Ievainojumi, saindēšanās un toksiska zāļu iedarbība","Injuries, poisonings and toxic effects of drugs",lat
+22,Apdegumi,Burns,lat
+23,"Faktori, kas ietekmē veselības stāvokli un citi kontakti ar veselības aprūpes pakalpojumiem",Factors influencing health status and other contacts with health services,lat
+24,Multiplas nozīmīgas traumas,Multiple significant trauma,lat
+30,Krūts dziedzera problēmas,Breast problem,lat
+98,Sieviešu / vīriešu reproduktīvo orgānu slimības un traucējumi,Diseases and disorders of male/female reprodutive organs,lat
+99,Nestandarta vai kļūdaina informācija,Unspecific or erroneous information,lat
+0,PreMDC DRG,PreMDC DRG,nor
+1,Sykdommer i nervesystemet,Diseases of nervous system,nor
+2,Øyesykdommer,Diseases and disorders of the eye,nor
+3,"Øre-, nese- og halssykdommer","Diseases and disorders of the ear, nose, mouth and throat",nor
+4,Sykdommer i åndedrettsorganene,Diseases and disorders of the respiratory system,nor
+5,Sykdommer i sirkulasjonsorganene,Diseases and disorders of the circulatory system,nor
+6,Sykdommer i fordøyelsesorganene,Diseases and disorders of the digestive system,nor
+7,"Sykdommer i lever, galleveier og bukspyttkjertel",Diseases and disorders of the hepatobiliary system and pancreas,nor
+8,"Sykdommer i muskel-, skjelettsystemet og bindevev",Diseases and disorders of the musculoskeletal system and connective tissue,nor
+9,Sykdommer i hud og underhud,Diseases and disorders of the skin and subcutaneous tissue,nor
+10,"Indresekretoriske-, ernærings- og stoffskiftesykdommer","Endocrine, nutritional and metabolic diseases and disorders",nor
+11,Nyre og urinveissykdommer,Diseases and disorders of the kidney and urinary tract,nor
+12,Sykdommer i mannlige kjønnsorganer,Diseases and disorders of the male reproductive system,nor
+13,Sykdommer i kvinnelige kjønnsorganer,Diseases and disorders of the female reproductive system,nor
+14,"Sykdommer under svangerskap, fødsel og barseltid","Pregnancy, childbirth and puerperium",nor
+15,Nyfødte med tilstander som har oppstått i perinatalperioden,Newborns and other neonates with conditions originating in the perinatal period,nor
+16,"Sykdommer i blod, bloddannede organer og immunapparat",Diseases and disorders of the blood and blood forming organs and immunological disorders,nor
+17,Myeloproliferative sykdommer og lite differensierte svulster,"Myeloproliferative diseases and disorders, poorly differentiated neoplasms",nor
+18,Infeksiøse og parasittære sykdommer,Infectious and parasitic diseases,nor
+19,Psykiske lidelser og rusproblemer,Mental diseases and disorders,nor
+21,"Skade, forgiftninger og toksiske effekter av medikamenter/andre stoffer, medikamentmisbruk og organiske ","Injuries, poisonings and toxic effects of drugs",nor
+22,Forbrenninger,Burns,nor
+23,Faktorer som påvirker helsetilstand – andre kontakter med helsetjenesten,Factors influencing health status and other contacts with health services,nor
+24,Multiple significant trauma,Multiple significant trauma,nor
+30,Sykdommer i bryst,Breast problem,nor
+40,Kategorier på tvers av flere hoveddiagnosegrupper,MDC overlapping groups,nor
+98,Diseases and disorders of male/female reprodutive organs,Diseases and disorders of male/female reprodutive organs,nor
+99,Kategorier for feil og uvanlige diagnose-prosedyrekombinasjoner,Unspecific or erroneous information,nor
+0,Pre-MDC,PreMDC DRG,swe
+1,Sjukdomar i nervsystemet,Diseases of nervous system,swe
+2,Sjukdomar i öga och närliggande organ,Diseases and disorders of the eye,swe
+3,"Sjukdomar i öra, näsa, mun och hals","Diseases and disorders of the ear, nose, mouth and throat",swe
+4,Andningsorganens sjukdomar,Diseases and disorders of the respiratory system,swe
+5,Cirkulationsorganens sjukdomar,Diseases and disorders of the circulatory system,swe
+6,Matsmältningsorganens sjukdomar,Diseases and disorders of the digestive system,swe
+7,"Sjukdomar i lever, gallvägar och bukspottkörtel",Diseases and disorders of the hepatobiliary system and pancreas,swe
+8,"Sjukdomar i muskler, skelett och bindväv",Diseases and disorders of the musculoskeletal system and connective tissue,swe
+9,Sjukdomar i hud och underhud,Diseases and disorders of the skin and subcutaneous tissue,swe
+10,"Endokrina, metabola och nutritionssjukdomar","Endocrine, nutritional and metabolic diseases and disorders",swe
+11,Sjukdomar i njure och urinvägar,Diseases and disorders of the kidney and urinary tract,swe
+12,Sjukdomar i manliga könsorgan,Diseases and disorders of the male reproductive system,swe
+13,Sjukdomar i kvinnliga könsorgan,Diseases and disorders of the female reproductive system,swe
+14,"Graviditet, förlossning och barnsängstid","Pregnancy, childbirth and puerperium",swe
+15,Nyfödda och vissa perinatala tillstånd,Newborns and other neonates with conditions originating in the perinatal period,swe
+16,Blodsjukdomar och immunologiska rubbningar,Diseases and disorders of the blood and blood forming organs and immunological disorders,swe
+17,Myeloproliferativa sjukdomar och icke specificerade tumörer,"Myeloproliferative diseases and disorders, poorly differentiated neoplasms",swe
+18,Infektions- och parasitsjukdomar inklusive HIV,Infectious and parasitic diseases,swe
+19,"Psykiska sjukdomar, beteendestörningar och alkohol- eller drogberoende",Mental diseases and disorders,swe
+21,"Skador, förgiftningar och toxiska effekter","Injuries, poisonings and toxic effects of drugs",swe
+22,Brännskador,Burns,swe
+23,Andra hälsoproblem och kontakter med hälso- och sjukvården,Factors influencing health status and other contacts with health services,swe
+24,Multipelt trauma utom ytliga skador och sårskador,Multiple significant trauma,swe
+30,Bröstkörtelsjukdomar,Breast problem,swe
+40,MDC-övergripande problem i öppenvård,MDC overlapping groups,swe
+50,Vårdgivarberoende grupper i öppenvård,Caregiver dependant groups,swe
+98,Sjukdomar i manliga/kvinnliga könsorgan,Diseases and disorders of male/female reprodutive organs,swe
+99,Ospecifik eller felaktig information,Unspecific or erroneous information,swe

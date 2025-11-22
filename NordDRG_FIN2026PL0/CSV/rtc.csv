@@ -1,0 +1,13 @@
+rtc_code,rtc_text_nat,rtc_text_comb,country
+0,Ryhmittely onnistui teknisesti,Grouping completed technically,fin
+1,Päädiagnoosi puuttuu,No principal diagnosis,fin
+2,Potilaan sukupuoli puuttuu,Sex of the patient is missing,fin
+3,Potilaan sukupuoli ei sovi diagnoosiin,Sex of the patient is incoherent with the diagnosi,fin
+4,Potilas on liian nuori käytettyyn diagnoosiin,Patient is too young for current diagnosis,fin
+5,Potilas on liian vanha käytettyyn diagnoosiin,Patient is too old for current diagnosis,fin
+6,Potilaan ikä on virheellinen (>125),Error in the age of the patient (>125),fin
+7,Virheellinen tai harvinainen toimenpide-diagnoosi,Rare of false combination of diagnosis and procedu,fin
+8,Käytetty päädiagnoosi sopimaton,Principal diagnosis not applicable,fin
+9,Muu virhe ryhmityksessä,Other error,fin
+A,Leikkaussalitoimenpide hemangiooman hoitamiseksi,OR procedure for hemangioma,fin
+B,Unspecified or impossible procedure,Unspecified or impossible procedure,fin

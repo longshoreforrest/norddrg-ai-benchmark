@@ -1,0 +1,84 @@
+pdgprop,varval_text_comb,nat_ver
+00P01,Adult diagnosis,est/swe/lat/ice/den/fin/nor
+00P02,Child diagnosis,est/swe/lat/ice/den/fin/nor
+00P03,Rare or incorrect principal diagnosis,swe
+00P11,"Face, mouth or neck diagnosis",est/swe/lat/ice/den/fin/nor
+00P20,"Osteoporotic fractures, primary care",swe
+00P21,Fresh trauma or fresh trauma related diagnosis,est/swe/lat/ice/den/fin/nor
+01P01,Potentiallly intracranial vascular structural changes,est/swe/lat/ice/den/fin/nor
+01P02,Home visits for dementia and cognitive impairment,swe
+01P04,Carpal tunnel syndrome,est/swe/lat/ice/den/fin/nor
+01P05,Diabetes complicating nervous system disorder,est/swe/lat/ice/den/fin/nor
+01P06,Headache,nor
+01P07,Migraines and other pain of head,swe
+01P08,Cramps and epilepsy,swe
+01P10,Stroke or SAB,est/swe/lat/ice/den/fin
+01P11,Demyelinating disease,est/swe/lat/ice/den/fin
+01P12,Spinal problem,est/swe/lat/ice/den/fin
+01P13,Intracranial injury,est/swe/lat/ice/den/fin
+01P14,Brain tumor,est/swe/lat/ice/den/fin
+01P15,Other neurological problem,est/swe/lat/ice/den/fin
+01P21,Potential symphatetic nervous system problem,est/swe/lat/ice/den/fin/nor
+02P02,Diabetes complicating eye,est/swe/lat/ice/den/fin/nor
+03P01,Potential mouth problem,fin
+03P05,Sleep apnea,swe/lat/ice/den/nor
+03P10,Influenza,swe
+03P11,Cold,swe
+03P12,Other viral infections,swe
+03P13,Infections of the upper respiratory tract,swe
+03P14,Infections in the ears,swe
+03P15,Other diseases of the ear,swe
+03P16,"Diseases in the nose, mouth and throat",swe
+04P01,Respiratory failure,est/swe/lat/ice/den/fin
+04P02,Covid-19,fin/ice/swe
+05P01,Aortic aneurysm,est/swe/lat/ice/den/fin/nor
+05P02,Diabetes complicating circulatory system disorder,est/swe/lat/ice/den/fin/nor
+05P05,Cerebral infarction,est/fin/nor/swe/ice/lat
+05P06,Hypertension,swe
+05P07,Home visits for arrhythmia,swe
+05P09,Home visits for heart failure,swe
+05P10,Circulatory and respiratory problem,est/swe/lat/ice/den/fin
+05P11,Vascular complication,swe
+05P21,Varicose vein disorder,est/swe/lat/ice/den/fin/nor
+06P01,Diagnoses with possible g.i. hemorrhage,nor
+06P05,Diseases with possible abdominal pain,swe/fin
+06P06,Gastroenteritis,swe/fin
+07P14,Hepatobiliary problem during pregnancy,est/swe/lat/ice/den/fin/nor
+07P18,Possible pancreatic disease,swe
+08P01,Fracture of lower arm,est/swe/lat/ice/den/fin
+08P03,Cutaneous diagnosis with relation to deep infection,est/swe/lat/ice/den/fin/nor
+08P05,Fracture of hip,swe/est
+08P10,"Arthrosis, arthritis or other connective tissue disease",est/swe/lat/ice/den/fin
+09P01,Tumor of skin,nor
+09P02,Papulosquamous skin disorder,nor
+09P03,Dermatitis and eczem,nor
+09P04,Excess skin,nor
+09P70,Lymphedema or lipohypertrophy,swe
+10P01,Secondary hyperparathyroidism of renal origin,est/swe/lat/ice/den/fin/nor
+10P02,Thyroid dysfunction,nor
+10P03,Obesity,nor
+10P05,Neonatal diabetes mellitus,swe
+11P01,Diabetes complicating urinary system disorder,est/swe/lat/ice/den/fin/nor
+12P01,Prostate cancer,nor
+13P01,Ovarian or adnexal malignancy,est/swe/lat/ice/den/fin/nor
+13P02,Other malignancy of female reproductive system,est/swe/lat/ice/den/fin/nor
+14P01,Delivery this admission,est/swe/lat/ice/den/fin
+18P01,HIV or HIV related main condition,est/swe/lat/ice/den/fin/nor
+18P10,Vaccination,swe
+21P10,Trauma,est/swe/lat/ice/den/fin
+23P01,Non-defined diagnosis,est/lat/ice/den/fin
+23P03,Special palliative care,nor
+23P05,Issue of certificate,swe
+23P07,Invalid primary diagnosis in Sweden,swe
+23P10,"Amputation, not traumatic",est/swe/lat/ice/den/fin
+23P20,Healthy person,swe
+23P90,Outpatient rehablitiation,ice/nor
+24P01,Multitrauma dx,fin
+30P01,Breast cancer prophylaxis,est/swe/lat/ice/den/fin/nor
+40P80,Same day emergency care conditions,nor
+90P01,Pain,nor
+90P11,Severe or general pain,swe
+90P80,Not acceptable princible dx for short therapy,ice/nor
+90P81,Healthy persion with specific contact,ice/nor
+99P01,Infertilty,nor
+99P78,Follow-up,swe

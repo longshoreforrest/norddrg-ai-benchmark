@@ -1,0 +1,411 @@
+procprop,varval_text_comb,extens,nat_ver
+00S01,Liver transplant,False,est/swe/lat/ice/den/fin/nor
+00S03,Tracheostomy,False,est/swe/lat/ice/den/fin/nor
+00S04,Lung transplant,False,est/swe/lat/ice/den/fin/nor
+00S05,"Major face, mouth and neck procedure",False,est/swe/lat/ice/fin/nor
+00S06,Pancreas transplantation,False,est/swe/lat/ice/den/fin/nor
+00S07,Cardiac transplantation,False,est/swe/lat/ice/den/fin/nor
+00S09,Major throat procedure,False,swe/fin/nor
+00S20,Intensive circulatory support,True,est/swe/lat/ice/den/fin/nor
+00S21,Use of IABP,True,swe/lat/ice/den/fin/nor
+00S22,Intravenous thrombolysis,False,est/lat/fin
+01D01,"Diagnostic procedure of head, neck and central nervous system in MDC 01",False,fin
+01D02,"Demanding diagnostic procedure of head, neck and central nervous system in MDC 01",False,fin
+01D21,"Diagnostic procedure of heart, large vessels and other intrathoracic organs in MDC 01",False,fin
+01D22,"Demanding diagnostic procedure of heart, large vessels and other intrathoracic organs in MDC 01",False,fin
+01S01,Craniotomy or intracranial procedure,True,est/swe/lat/ice/den/fin/nor
+01S02,Spinal procedure,True,est/swe/lat/ice/den/fin/nor
+01S03,Extracranial vascular procedure,False,est/swe/lat/ice/den/fin/nor
+01S04,Median nerve operation,False,est/swe/lat/ice/den/fin/nor
+01S05,Peripheral or cranial nerve or other nervous system procedure,False,est/swe/lat/ice/den/fin/nor
+01S21,Procedures of sympathic nervous system,False,est/swe/lat/ice/den/fin/nor
+01S26,Excision and destruction of intracranial lesion,True,est/swe/lat/ice/den/fin/nor
+01S27,Operations for intracranial aneurysm and other vascular lesions,True,est/swe/lat/ice/den/fin/nor
+01S28,Shunt operations on ventricles of brain and  intracerebral cysts,True,est/swe/lat/ice/den/fin/nor
+01S29,Evacuation of chronic subdural haematoma,True,est/swe/lat/ice/den/fin/nor
+01S30,Intracranial endovascular trombolysis,False,est/swe/lat/ice/den/fin/nor
+01S50,Stereotactic intracranial radiotherapy,False,est/swe/lat/ice/fin/nor/den
+01S51,Insertion or replacement of nervous system central stimulation device,False,est/swe/lat/ice/den/fin/nor
+01S52,Implantation of intracranial or vagal nerve stimulator,False,est/swe/lat/ice/den/fin
+02D01,"Diagnostic procedure of head, neck and central nervous system in MDC 02",False,fin
+02D02,"Demanding diagn proc of head, neck and central nervous system in MDC 02",False,fin
+02S01,Procedure of the orbit,False,est/swe/lat/ice/den/fin/nor
+02S02,Procedure of the retina,False,est/swe/lat/ice/den/fin/nor
+02S03,Extraocular procedure but not procedure of the orbit,False,est/swe/lat/ice/den/fin/nor
+02S04,"Intraocular procedure but not procedure of retina, iris or lens",False,est/swe/lat/ice/den/fin/nor
+02S05,Procedure of the lens,False,est/swe/lat/ice/den/fin/nor
+02S06,Procedure of the iris,False,est/swe/lat/ice/den/fin/nor
+02S07,Procedure on vitreous,False,est/swe/lat/ice/den/fin/nor
+02S14,Extraocular muscle procedure,False,est/swe/lat/ice/den/fin/nor
+02S22,Brachytherapy of eye,False,est/swe/lat/ice/den/fin/nor
+02S24,Major eye surgery,False,est/swe/lat/ice/den/fin/nor
+02S25,Puncture of vitreous body with injection,False,fin
+02S30,Laser procedures on iris and chamber angle,False,est/swe/lat/ice/den/fin/nor
+02S31,Procedures on intraocular pressure,False,est/swe/lat/ice/den/fin/nor
+02S33,Transplantation of cornea,False,est/swe/lat/ice/den/fin/nor
+03D01,"Diagnostic procedure of head, neck and central nervous system in MDC 03",False,fin
+03D02,"Demanding diagn proc of head, neck and central nervous system in MDC 03",False,fin
+03D11,Extensive mouth radiology,False,fin
+03E01,Diagnostic endoscopy of upper respiratory tract for ENMT problems,False,est/swe/lat/ice/den/fin/nor
+03E02,Diagnostic tracheo-bronchoscopy for ENMT problems,False,est/swe/lat/ice/den/fin/nor
+03E03,Esophagoscopy with insertion of stent for ENMT problems,False,est/swe/lat/ice/den/fin/nor
+03E06,Therapeutic endoscopy of upper gastrointestinal tract for ENMT problem,False,est/swe/lat/ice/den/fin/nor
+03E11,Endoscopy of oesophagus for ENMT problems,False,est/swe/lat/ice/den/fin/nor
+03E20,Endoscopic procedures of mouth and throat,False,est/swe/lat/ice/den/fin/nor
+03S01,Major head or neck procedure,True,est/swe/lat/ice/den/fin/nor
+03S03,Tonsillectomy or adenoidectomy,False,est/swe/lat/ice/den/fin/nor
+03S04,Cleft lip and palate repair,True,est/swe/lat/ice/den/fin/nor
+03S05,Procedure of the mouth,False,est/swe/lat/ice/den/fin/nor
+03S06,Procedure of paranasal sinus or mastoid,True,est/swe/lat/ice/den/fin/nor
+03S07,Rhinoplasty,False,est/swe/lat/ice/den/fin/nor
+03S08,Parotidectomy,False,est/swe/lat/ice/den/fin/nor
+03S09,Salivary gland procedure except paratidectomy,False,est/swe/lat/ice/den/fin/nor
+03S10,"Miscellaneous ear, nose, mouth or throat procedure",False,est/swe/lat/ice/den/fin/nor
+03S11,Special tonsillar and/or adenoid procedure,False,est/swe/lat/ice/den/fin/nor
+03S12,"Other ear, nose, mouth or throat OR procedure",False,est/swe/lat/ice/den/fin/nor
+03S14,Procedure associated with cleft lip and palate,False,est/swe/lat/ice/den/fin/nor
+03S21,Secondary correction operation for cleft lip,False,fin
+03S22,Surgery of mastoid and temporal bone,True,est/swe/lat/ice/den/fin/nor
+03S23,Simple correction of obstructive apnoe,False,est/swe/lat/ice/den/fin/nor
+03S24,Insertion of cochlear implant,True,est/swe/lat/ice/den/fin/nor
+03S40,Extensive mouth and jaw surgery,False,fin
+03S41,Mouth and jaw surgery,False,fin
+03S42,Extensive mouth intervention,False,fin
+03S43,Mouth intervention,False,fin
+03S90,"Secondary procedure for ear, nose and mouth area",False,fin
+03S99,"Minor procedure in ear, nose and throat diseases",False,est/swe/lat/ice/den/fin/nor
+04D21,"Diagnostic procedure of heart, large vessels and other intrathoracic organs in MDC 04",False,fin
+04D22,"Demanding diagnostic procedure of heart, large vessels and other intrathoracic organs in MDC 04",False,fin
+04E02,Endoscopy of respiratory tract and organs for respiratory problems,False,est/swe/lat/ice/den/fin/nor
+04E11,Endoscopy of upper gastrointestinal tract for diseases of the respiratory system,False,est/swe/lat/ice/fin/nor/den
+04S01,Major chest procedure,True,est/swe/lat/ice/den/fin/nor
+04S02,Other respiratory system OR procedure,False,est/swe/lat/ice/den/fin/nor
+04S03,Mechanical ventilation,False,swe/lat/ice/den/fin/nor
+04S04,Positive airway pressure therapy,False,swe/lat/ice/den/fin/nor
+05D01,"Diagnostic procedure of head, neck and central nervous system in MDC 05",False,fin
+05D02,"Demanding diagnostic procedure of head, neck and central nervous system in MDC 05",False,fin
+05D11,Diagnostic procedure of endocrine organs in MDC 05,False,fin
+05D21,"Diagnostic procedure of heart, large vessels and other intrathoracic organs in MDC 05",False,fin
+05D22,"Demanding diagnostic procedure of heart, large vessels and other intrathoracic organs in MDC 05",False,fin
+05D31,"Diagnostic procedure of abdominal, retroperitoneal and pelvic organs in MDC 05",False,fin
+05D61,Diagnostic procedure of peripheral vascular system in MDC 05,False,fin
+05D62,Demanding diagnostic procedure of peripheral vascular system in MDC 05,False,fin
+05D64,Diagnostic procedure of lymfatic system in MDC 05,False,fin
+05O02,Cardioversion,False,ice/nor/fin/est/lat
+05S01,Cardiac transplantation support procedures,True,est/swe/lat/ice/den/fin/nor
+05S02,Cardiac valve procedure,True,est/swe/lat/ice/den/fin/nor
+05S05,Cardiac catheterization,False,est/swe/lat/ice/den/fin/nor
+05S06,Procedure of heart atrium and ventricles or coronary arteries,True,est/swe/lat/ice/den/fin/nor
+05S07,Resection of abdominal aorta with replacement,True,est/swe/lat/ice/den/fin/nor
+05S08,Resection of thoracic vessel with replacement,True,est/swe/lat/ice/den/fin/nor
+05S09,Coronary bypass,True,est/swe/lat/ice/den/fin/nor
+05S11,Major cardiovascular procedure,True,est/swe/lat/ice/den/fin/nor
+05S12,Amputation of lower limb except toe,False,est/swe/lat/ice/den/fin/nor
+05S15,Other vascular procedures,False,est/swe/lat/ice/den/fin/nor
+05S16,Other percutaneous cardiovascular procedures,False,est/swe/lat/ice/den/fin/nor
+05S17,Amputation upper limb or toe,False,est/swe/lat/ice/den/fin/nor
+05S18,Vein ligation or stripping,False,est/swe/lat/ice/den/fin/nor
+05S19,Other circulatory system OR procedures,False,est/swe/lat/ice/den/fin/nor
+05S20,Percutaneous ablation for cardiac arrhytmias,False,est/swe/lat/ice/den/fin/nor
+05S21,Assisting procedure in open heart surgery,False,est/swe/lat/ice/den/fin/nor
+05S22,"Procedure on heart, aorta or pulmonary artery possibly with extracorporeal circulation",True,est/swe/lat/ice/den/fin/nor
+05S23,Extracorporeal circulation of extremity,False,swe/fin/est/nor/ice
+05S24,Biopsy of heart ventricle,False,est/swe/lat/ice/den/fin/nor
+05S25,Percutaneous dilatation of coronary arteries,False,est/swe/lat/ice/den/fin/nor
+05S34,Correctional procedures for vascular problems of lower extremitity,False,fin
+05S35,Aortic procedures,True,est/swe/lat/ice/den/fin/nor
+05S40,Implantation of cardiac defibrillator,False,est/swe/lat/ice/den/fin/nor
+05S41,Implantation of pacemaker,False,est/swe/lat/ice/den/fin/nor
+05S42,Revision or removal of pacemaker or defibrillator,False,est/swe/lat/ice/den/fin/nor
+05S60,"Procedure on heart, blood vessels together with Cesarean section",False,est/swe/lat/ice/fin
+05S80,Percutaneous heart valve implantation,False,est/swe/lat/ice/den/fin/nor
+05V09,Cardiac ultrasonography,False,swe/fin
+06D31,"Diagnostic procedure of abdominal, retroperitoneal and pelvic organs in MDC 06",False,fin
+06D32,"Demanding diagnostic procedure of abdominal, retroperitoneal and pelvic organs in MDC 06",False,fin
+06D41,Diagnostic procedure of musculoskeletal system in MDC 06,False,fin
+06D61,Diagnostic procedure of peripheral vascular system in MDC 06,False,fin
+06D62,Demanding diagnostic procedure of peripheral vascular system in MDC 06,False,fin
+06E03,Esophagoscopy with insertion of stent for gastrointestinal problem,False,est/swe/lat/ice/den/fin/nor
+06E04,Therapeutic enteroscopy,False,est/swe/lat/ice/den/fin/nor
+06E06,Therapeutic endoscopy of upper gastrointestinal tract for gastrointestinal problem,False,est/swe/lat/ice/den/fin/nor
+06E07,Therapeutic rectoscopy for gastrointestinal problem,False,est/swe/lat/ice/den/fin/nor
+06E08,Endoscopic treatment of hemorrhoids,False,est/swe/lat/ice/fin/nor
+06E09,Enteroscopy for gastrointestinal problem,False,est/swe/lat/ice/den/fin/nor
+06E10,Colonoscopy for gastrointestinal diseases,False,est/swe/lat/ice/den/fin/nor
+06E11,Endoscopy of upper gastrointestinal tract for gastrointestinal problem,False,est/swe/lat/ice/den/fin/nor
+06E12,Rectosigmoideoscopy for gastrointestinal problem,False,est/swe/lat/ice/den/fin/nor
+06E13,Endoscopic insertion of stent to biliary tract or pancreas for gastrointestinal problem,False,est/swe/lat/ice/den/fin/nor
+06E14,Other therapeutic endoscopy of biliary tract for gastrointestinal problem,False,est/swe/lat/ice/den/fin/nor
+06E20,Capsular endoscopy,False,est/swe/lat/ice/den/fin/nor
+06S01,"Stomach, esophagus or duodenum procedure",True,est/swe/lat/ice/den/fin/nor
+06S02,Major small or large bowel procedure,True,est/swe/lat/ice/den/fin/nor
+06S03,Rectal resection,True,est/swe/lat/ice/den/fin/nor
+06S04,Peritoneal adhesiolysis,False,est/swe/lat/ice/den/fin/nor
+06S05,Appendectomy,False,est/swe/lat/ice/den/fin/nor
+06S06,Small or large bowel procedure,False,est/swe/lat/ice/den/fin/nor
+06S07,Minor intestinal procedure,False,est/swe/lat/ice/den/fin/nor
+06S08,Inguinal or femoral herniotomy,False,est/swe/lat/ice/den/fin/nor
+06S09,Other herniotomy,False,est/swe/lat/ice/den/fin/nor
+06S10,Other digestive system OR procedure,False,est/swe/lat/ice/den/fin/nor
+06S20,Diagnostic pleural procedure,False,est/swe/lat/ice/den/fin/nor
+06S21,"Major operation on stomach, esophagus and duodenum",True,est/swe/lat/ice/den/fin/nor
+06S30,Removal of retroperitoneal tumour,False,est/swe/lat/ice/den/fin/nor
+07D31,"Diagnostic procedure of abdominal, retroperitoneal and pelvic organs in MDC 07",False,fin
+07D32,"Demanding diagnostic procedure of abdominal, retroperitoneal and pelvic  organs in MDC 07",False,fin
+07D61,Diagnostic procedure of peripheral vascular system in MDC 07,False,fin
+07D62,Demanding diagnostic procedure of peripheral vascular system in MDC 07,False,fin
+07E06,Therapeutic endoscopy of upper gastrointestinal tract for hepatobiliar problem,False,est/swe/lat/ice/den/fin/nor
+07E13,Endoscopic insertion of stent to biliary tract or pancreas for hepatobiliar problem,False,est/swe/lat/ice/den/fin/nor
+07E14,Other therapeutic endoscopy of biliary tract for hepatobiliary problem,False,est/swe/lat/ice/den/fin/nor
+07E15,Diagnostic endoscopy of biliary tract for gastrointestinal problem,False,est/swe/lat/ice/den/fin/nor
+07S01,"Pancreas, liver or splanchnic shunt procedure",True,est/swe/lat/ice/den/fin/nor
+07S02,Common bile duct exploration,False,est/swe/lat/ice/den/fin/nor
+07S03,Cholecystectomy,False,est/swe/lat/ice/den/fin/nor
+07S04,Laparoscopic cholecystectomy,False,est/swe/lat/ice/den/fin/nor
+07S05,Other biliary tract procedure,False,est/swe/lat/ice/den/fin/nor
+07S06,Hepatobiliary diagnostic procedure,False,est/swe/lat/ice/den/fin/nor
+07S07,Other hepatobiliary or pancreas procedure,False,est/swe/lat/ice/den/fin/nor
+07S08,Endoscopic procedure of choledochus or pancreas,False,est/swe/lat/ice/den/fin/nor
+08D02,"Demanding diagnostic procedure of head, neck and central nervous system in MDC 08",False,fin
+08D41,Diagnostic procedure of musculoskeletal system in MDC08,False,fin
+08D42,Demanding diagnostic procedure of musculoskeletal system in MDC 08,False,fin
+08D61,Diagnostic procedure of peripheral vascular system in MDC 08,False,fin
+08S02,Wound debriment or skin graft procedure,False,est/swe/lat/ice/den/fin/nor
+08S04,Musculoskeletal system or connective tissue biopsy,False,est/swe/lat/ice/den/fin/nor
+08S06,Amputation,True,est/swe/lat/ice/den/fin/nor
+08S08,Back or neck procedure,True,est/swe/lat/ice/den/fin/nor
+08S10,Foot and leg procedures for infection,False,est/swe/lat/ice/den/fin/nor
+08S11,"Local excision and removal of internal fixation devices, except hip and femur",False,est/swe/lat/ice/den/fin/nor
+08S12,Soft tissue procedure,False,est/swe/lat/ice/den/fin/nor
+08S13,Local excision or removal of internal fixation devices from hip or femur,False,est/swe/lat/ice/den/fin/nor
+08S14,Interbody fusion of spine,True,est/swe/lat/ice/den/fin/nor
+08S15,Other fusion of spine,True,est/swe/lat/ice/den/fin/nor
+08S16,Combined anterior and posterior fusion of spine,True,est/swe/lat/ice/den/fin/nor
+08S18,Open fracture surgery of spine,False,est/swe/lat/ice/den/fin/nor
+08S19,Arthroscopy,False,est/swe/lat/ice/den/fin/nor
+08S20,Other musculoskeletal system or connective tissue OR procedure,False,est/swe/lat/ice/den/fin/nor
+08S40,Tumor removal from shoulder or humerus,False,est/swe/lat/ice/den/fin/nor
+08S41,Tumor removal from elbow or forearm,False,est/swe/lat/ice/den/fin/nor
+08S42,Tumor removal from wrist or hand,False,est/swe/lat/ice/den/fin/nor
+08S43,"Tumor removal from pelvis, hip or femur",False,est/swe/lat/ice/den/fin/nor
+08S44,Tumor removal form knee or lower leg,False,est/swe/lat/ice/den/fin/nor
+08S45,Tumor removal from ankle or foot,False,est/swe/lat/ice/den/fin/nor
+08S46,Procedure for syndactyly of hand,False,est/swe/lat/ice/den/fin/nor
+08S47,Procedure for syndactyly of foot,False,est/swe/lat/ice/den/fin/nor
+08S50,Shoulder or humerus procedure,False,est/swe/lat/ice/den/fin/nor
+08S51,Major shoulder procedures,False,est/swe/lat/ice/den/fin/nor
+08S52,Other shoulder  procedure,False,est/swe/lat/ice/den/fin/nor
+08S53,Humerus procedure,False,est/swe/lat/ice/den/fin/nor
+08S55,Major elbow or forearm procedure,False,est/swe/lat/ice/den/fin/nor
+08S56,Other elbow or forearm procedure,False,est/swe/lat/ice/den/fin/nor
+08S57,Major thumb or wrist procedure,False,est/swe/lat/ice/den/fin/nor
+08S58,Other hand or wrist procedure,False,est/swe/lat/ice/den/fin/nor
+08S60,Joint replacement or limb reattachment procedure of the upper extremity,True,est/swe/lat/ice/den/fin/nor
+08S61,Prosthetic replacement of joint of shoulder,False,est/swe/lat/ice/den/fin/nor
+08S62,Prosthetic replacement of elbow,False,est/swe/lat/ice/den/fin/nor
+08S70,Major knee procedures in  short therapy,False,est/swe/lat/ice/den/fin/nor
+08S71,"Pelvic, hip or femur procedure, except major joint",False,est/swe/lat/ice/den/fin/nor
+08S72,Knee procedure except major joint,False,est/swe/lat/ice/den/fin/nor
+08S73,Procedure of lower leg or ankle except major joint or soft tissue procedure,False,est/swe/lat/ice/den/fin/nor
+08S74,Procedure of foot except major joint,False,est/swe/lat/ice/den/fin/nor
+08S75,Procedure on knee or lower leg,False,est/swe/lat/ice/den/fin/nor
+08S76,Procedure on ankle or foot,False,est/swe/lat/ice/den/fin/nor
+08S77,Fracture surgery of ankle and foot,False,fin
+08S78,"Major pelvic, hip or femur trauma procedure",True,est/swe/lat/ice/den/fin/nor
+08S79,Limb reattachment in lower extremity,True,fin
+08S81,Prosthetic replacement of joint of hip or pelvis,True,est/swe/lat/ice/den/fin/nor
+08S82,Replacement of knee by prosthesis,True,est/swe/lat/ice/den/fin/nor
+08S83,Total replacement of ankle by prosthesis,True,est/swe/lat/ice/den/fin/nor
+08S91,Excision of bone for graft,False,est/swe/lat/ice/den/fin/nor
+08S92,Reoperation on large lower leg joint prosthesis,False,est/swe/lat/ice/den/fin/nor
+08S93,Hip secondary procedure,True,est/swe/lat/ice/den/fin
+08S94,Knee secondary procedure,True,est/swe/lat/ice/den/fin/nor
+08S95,Secondary ankle procedure,True,est/swe/lat/ice/den/fin/nor
+08S98,Extern fixation of wrist,False,est/swe/lat/ice/den/fin
+09S01,Skin graft or debridement procedure,False,est/swe/lat/ice/den/fin/nor
+09S02,Plastic procedure,False,est/swe/lat/ice/den/fin/nor
+09S06,Perianal procedure,False,est/swe/lat/ice/den/fin/nor
+09S07,"Other skin, subcutaneous tissue or breast procedure",False,est/swe/lat/ice/den/fin/nor
+09S08,"Other skin, subcutaneous tissue or breast procedure, not OR procedure",False,est/swe/lat/ice/den/fin/nor
+09S20,Pilonidal sinus procedure,False,est/swe/lat/ice/den/fin/nor
+10D01,"Diagnostic procedure of head, neck and central nervous system in MDC 10",False,fin
+10D02,"Demanding diagnostic procedure of head, neck and central nervous system in MDC 10",False,fin
+10D11,Diagnostic procedure of endocrine organs in MDC 10,False,fin
+10D21,"Diagnostic procedure of heart, large vessels and other intrathoracic organs in MDC 10",False,fin
+10D41,Diagnostic procedure of musculoskeletal system in MDC10,False,fin
+10D62,Demanding diagnostic procedure of peripheral vascular system in MDC 10,False,fin
+10S01,Amputation of lower limb,True,est/swe/lat/ice/den/fin/nor
+10S02,Adrenal procedure,False,est/swe/lat/ice/den/fin/nor
+10S04,OR procedure for obesity,False,est/swe/lat/ice/den/fin/nor
+10S05,Parathyroid procedure,False,est/swe/lat/ice/den/fin/nor
+10S06,Thyroid procedure,False,est/swe/lat/ice/den/fin/nor
+10S08,"Other endocrine, nutritional or metabolic system OR procedure",False,est/swe/lat/ice/den/fin/nor
+10S09,Pituitary procedure,True,est/swe/lat/ice/den/fin/nor
+10S20,Gastrointestinal procedure for obesity,False,est/swe/lat/ice/den/fin/nor
+11D21,"Diagnostic procedure of heart, large vessels and other intrathoracic organs in MDC 11",False,fin
+11D31,"Diagnostic procedure of abdominal, retroperitoneal and pelvic organs in MDC 11",False,fin
+11D32,"Demanding diagnostic procedure of abdominal, retroperitoneal and pelvic organs in MDC 11",False,fin
+11D62,Demanding diagnostic procedure of peripheral vascular system in MDC 11,False,fin
+11E16,Therapeutic endoscopy of urinary tract for urinary problem,False,est/swe/lat/ice/den/fin/nor
+11E17,Diagnostic endoscopy of upper urinary tract for urinary problem,False,est/swe/lat/ice/den/fin/nor
+11E18,Diagnostic endoscopy of lower urinary tract for urinary problems,False,est/swe/lat/ice/den/fin/nor
+11S01,Kidney transplant,True,est/swe/lat/ice/den/fin/nor
+11S02,"Kidney, ureter or major bladder procedure",True,est/swe/lat/ice/den/fin/nor
+11S03,Minor bladder procedure,False,est/swe/lat/ice/den/fin/nor
+11S05,Transurethral procedures (no prostatectomy),False,est/swe/lat/ice/den/fin/nor
+11S06,Urethra procedures,False,est/swe/lat/ice/den/fin/nor
+11S07,Other kidney or urinary tract OR procedure,False,est/swe/lat/ice/den/fin/nor
+11S08,ESWL,False,est/swe/lat/ice/den/fin/nor
+11S09,Dialysis,False,est/swe/lat/ice/den/fin/nor
+11S10,Procedures for vesicointestinal fistula,False,est/swe/lat/ice/den/fin/nor
+11S11,Artificial urethra sphincter procedures,False,est/swe/lat/ice/den/fin/nor
+11S12,Insertion of hemodialysis catheters,False,est/lat/ice/den/fin
+11S13,Construction or closure of arteriovenous fistula,False,est/swe/lat/ice/den/fin
+11S14,Insertion of peritoneal dialysis catheter,False,est/swe/lat/ice/den/fin
+11S15,Other kidney or urinary tract OR procedure,False,est/lat/ice/den/fin
+11S20,"Transurethral incision of prostate, TIUP",False,fin
+11S90,Blood vessel biopsy,False,est/swe/lat/ice/den/fin/nor
+12D31,"Diagnostic procedure of abdominal, retroperitoneal and pelvic organs in MDC 12",False,fin
+12D32,"Demanding diagnostic procedure of abdominal, retroperitoneal and pelvic organs in MDC 12",False,fin
+12D61,Diagnostic procedure of peripheral vascular system in MDC 12,False,fin
+12D62,Demanding diagnostic procedure of peripheral vascular system in MDC 12,False,fin
+12E16,Therapeutic endoscopy of urinary tract for male genitourinary problem,False,est/swe/lat/ice/den/fin/nor
+12E18,Endoscopy of male genital tract,False,est/swe/lat/ice/den/fin/nor
+12S01,"Major pelvic procedure, male",True,est/swe/lat/ice/den/fin/nor
+12S02,Penis procedure,False,est/swe/lat/ice/den/fin/nor
+12S03,Testes procedure,False,est/swe/lat/ice/den/fin/nor
+12S04,Transurethral prostatectomy,False,est/swe/lat/ice/den/fin/nor
+12S05,Circumcisions,False,est/swe/lat/ice/den/fin/nor
+12S07,Male sterilization,False,est/swe/lat/ice/den/fin/nor
+12S08,Other male reproductive system OR procedure,False,est/swe/lat/ice/den/fin/nor
+12V02,Intervention of male genital organs,False,swe/fin
+13D31,"Diagnostic procedure of abdominal, retroperitoneal and pelvic organs in MDC 13",False,fin
+13D61,Diagnostic procedure of peripheral vascular system in MDC 13,False,fin
+13D62,Demanding diagnostic procedure of peripheral vascular system in MDC 13,False,fin
+13E10,Colonoscopy for gynecological problems,False,est/swe/lat/ice/den/fin/nor
+13E18,Endoscopy of lower urinary tract for genitourinary problems in females,False,est/swe/lat/ice/den/fin/nor
+13E19,Endoscopy of female genital tract for gynecological problem,False,est/swe/lat/ice/den/fin/nor
+13S01,"Pelvic evisceration, radical hysterctomy or radical vulvectomy",True,est/swe/lat/ice/den/fin/nor
+13S02,Uterine or adnexal procedure including intervention on embryo or ICSI,False,est/swe/lat/ice/den/fin/nor
+13S03,Laparoscopy or incisional tubal interruption,False,est/swe/lat/ice/den/fin/nor
+13S04,"Vagina, cervix or vulva procedure",False,est/swe/lat/ice/den/fin/nor
+13S05,Female reproductive system reconstructive procedure,False,est/swe/lat/ice/den/fin/nor
+13S06,"Dilation and curettage, conization or radio-implant",False,est/swe/lat/ice/den/fin/nor
+13S07,Endoscopic tubal interruption,False,est/swe/lat/ice/den/fin/nor
+13S08,Other female reproductive system OR procedure,False,est/swe/lat/ice/den/fin/nor
+13S09,Intervention on embryo or ICSI,False,swe/ice/fin
+13S20,Laparatomy,False,fin
+13S21,Excision or reconstructive operation on female reproductive organs,False,swe/ice/fin
+13S22,Other uterine or adnexal procedure,False,swe/ice/fin
+14D01,"Diagnostic procedure of head, neck and central nervous system during prenancy",False,fin
+14D02,"Demanding diagnostic procedure of head, neck and central nervous system during pregnancy",False,fin
+14D11,Diagnostic procedure of endocrine organs during pregnancy,False,fin
+14D51,Obstetric diagnostic imaging procedure,False,ice/fin/nor
+14D71,Diagnostic procedure of breast during pregnancy,False,fin
+14D72,Demanding diagnostic procedure of breast during pregnancy,False,fin
+14E11,Gastroscopy in pregnancy,False,est/swe/lat/ice/den/fin/nor
+14E19,Puncture of fetus or placenta,False,est/swe/lat/ice/den/fin/nor
+14O03,Medical abortion,False,fin/nor
+14S01,Cesarean section,False,est/swe/lat/ice/den/fin/nor
+14S02,Sterilization or postpartum dilation and curettage,False,est/swe/lat/ice/den/fin/nor
+14S03,Other obstetric OR procedure,False,est/swe/lat/ice/den/fin/nor
+14S04,Procedure of normal delivery,False,est/swe/lat/ice/den/fin/nor
+14S05,OR procedure in abortion,False,est/swe/lat/ice/den/fin/nor
+14S11,Procedures for ectopic pregnancy,False,est/swe/lat/ice/den/fin/nor
+14S90,Significant operation for obstetrical patient,False,est/swe/lat/ice/den/fin/nor
+15S01,Major neonatal operation,False,est/swe/lat/ice/den/fin/nor
+15S02,Neonatal intensive care procedure,False,est/swe/lat/ice/den/fin/nor
+15S03,Minor neonatal procedure,False,est/swe/lat/ice/den/fin/nor
+16D31,"Diagnostic procedure of abdominal, retroperitoneal and pelvic organs in MDC 16",False,fin
+16D62,Demanding diagnostic procedure of peripheral vascular system in MDC 16,False,fin
+16S01,Splenectomy,True,est/swe/lat/ice/den/fin/nor
+16S02,Other OR procedure of the blood forming or immunological organs,False,est/swe/lat/ice/den/fin/nor
+17E01,Endoscopy of respiratory organs for myeloproliferative disease,False,est/swe/lat/ice/den/fin/nor
+17E02,Tracheo-bronchial endoscopy for myeloproliferative problems,False,est/swe/lat/ice/den/fin/nor
+17E04,Therapeutic enteroscpy for myeloproliferative disease,False,est/swe/lat/ice/den/fin/nor
+17E06,Other therapeutic endoscopy of upper gastrointestinal tract for myeloproliferative diseases,False,est/swe/lat/ice/den/fin/nor
+17E07,Therapeutic rectoscopy for myeloproliferative disease,False,est/swe/lat/ice/den/fin/nor
+17E09,Enteroscopy for myeloproliferative disease,False,est/swe/lat/ice/den/fin/nor
+17E10,Colonoscopy for myeloproliferative disease,False,est/swe/lat/ice/den/fin/nor
+17E11,Endoscopy of upper respiratory tract for myeloproliferative disease,False,est/swe/lat/ice/den/fin/nor
+17E12,Rectosigmoideoscopy for myeloproliferative disease,False,est/swe/lat/ice/den/fin/nor
+17E13,Endoscopic insertion of stent to biliary or pancreas,False,est/swe/lat/ice/den/fin/nor
+17E14,Other therapeutic endoscopy of biliary tract,False,est/swe/lat/ice/den/fin/nor
+17E15,Diagnostic endoscopy of biliary tract,False,est/swe/lat/ice/den/fin/nor
+17E16,Therapeutic endoscopy of urinary tract,False,est/swe/lat/ice/den/fin/nor
+17E17,Diagnostic endoscopy of upper urinary tract,False,est/swe/lat/ice/den/fin/nor
+17E18,Endoscopy of lower urinary tract,False,est/swe/lat/ice/den/fin/nor
+17E19,Endoscopy of female genital tract,False,est/swe/lat/ice/den/fin/nor
+17S01,Major OR procedure in myeloproliferative diseases and disorders,False,est/swe/lat/ice/den/fin/nor
+17S03,Allogenic stem cell transplantation,False,swe/lat/ice/den/fin/nor
+17S04,Other stem cell transplantation,False,swe/lat/ice/den/fin/nor
+19V14,Ketamine therapy,False,fin
+19V15,Psychiatric neuromodulation treatment,False,fin
+21D01,"Diagnostic procedure of head, neck and central nervous system for trauma",False,fin
+21D02,"Demanding diagnostic procedure of head, neck and central nervous system for trauma",False,fin
+21D21,"Diagnostic procedure of heart, large vessels and other intrathoracic organs for trauma",False,fin
+21D22,"Demanding diagnostic procedure of heart, large vessels and other intratho",False,fin
+21D31,"Diagnostic procedure of abdominal, retroperitoneal and pelvic organs for trauma",False,fin
+21D32,"Demanding diagnostic procedure of abdominal, retroperitoneal and pelvic organs for trauma",False,fin
+21D41,Diagnostic procedure of musculoskeletal system for trauma,False,fin
+21D42,Demanding diagnostic procedure of musculoskeletal system for trauma,False,fin
+21E02,Tracheo-bronchial endoscopy for foreign body removal,False,est/swe/lat/ice/den/fin/nor
+21E03,Esophagoscopy with insertion of stent for trauma,False,est/swe/lat/ice/den/fin/nor
+21E06,Therapeutic endoscopy of upper gastrointestinal tract for trauma,False,est/swe/lat/ice/den/fin/nor
+21E11,Endoscopy of upper gastrointestinal tract for trauma,False,est/swe/lat/ice/den/fin/nor
+21E14,Other therapeutic endoscopy of biliary tract for trauma,False,est/swe/lat/ice/den/fin/nor
+21E16,Therapeutic endoscopy of urinary tract for trauma,False,est/swe/lat/ice/den/fin/nor
+21E17,Diagnostic endoscopy of upper urinary tract for trauma,False,est/swe/lat/ice/den/fin/nor
+21E18,Endoscopy of lower urinary tract for trauma,False,est/swe/lat/ice/den/fin/nor
+21S02,Skin graft procedure for injuries,False,est/swe/lat/ice/den/fin/nor
+21S03,Hand procedure for injuries,False,est/swe/lat/ice/den/fin/nor
+21S04,Craniotomy for trauma,False,est/swe/lat/ice/den/fin/nor
+21S05,Limb reattachment or hip or femur procedure for trauma,False,est/swe/lat/ice/den/fin/nor
+21S07,"Lumbar, pelvic or femur fracture procedure",False,fin
+21S09,Other OR procedure for injuries,False,est/swe/lat/ice/den/fin/nor
+21S10,OR procedure for trauma,False,fin
+21S20,Late treatment of burn,False,est/swe/lat/ice/den/fin/nor
+22E03,Esophagoscopy with insertion of stent for treatment of burn,False,est/swe/lat/ice/den/fin/nor
+22E06,Therapeutic endoscopy of upper gastrointestinal tract for treatment of burn,False,est/swe/lat/ice/den/fin/nor
+22E11,Endoscopy of upper gastrointestinal tract for treatment of burn,False,est/swe/lat/ice/den/fin/nor
+22S01,Skin graft procedure for burns,False,est/swe/lat/ice/den/fin/nor
+22S02,Wound debridement or other OR procedure for burns,False,est/swe/lat/ice/den/fin/nor
+22S03,Dressing of major burn,False,fin
+22S04,Dressing of burn,False,fin
+30D71,Diagnostic procedure of breast in MDC 30,False,fin
+30D72,Demanding diagnostic procedure of breast in MDC 30,False,fin
+30S03,Total mastectomy or breast reconstruction,True,est/swe/lat/ice/den/fin/nor
+30S04,Partial mastectomy or other breast procedure,False,est/swe/lat/ice/den/fin/nor
+30S05,Breast biopsy or local excision,False,est/swe/lat/ice/den/fin/nor
+30S11,Total reconstruction of breast,True,est/swe/lat/ice/den/fin/nor
+30S99,Other breast procedure,False,est/swe/lat/ice/den/fin/nor
+40V10,Desensitization,False,swe/fin
+90D01,"Diagnostic proc of head, neck and central nerv syst for malignancy",False,fin
+90D02,"Demanding diagnostic proc of head, neck and central nerv syst for malignancy",False,fin
+90D11,Diagnostic procedure of endocrine organs for malignancy,False,fin
+90D21,"Diagnostic procedure of heart, large vessels and other intrathoracic organs for malignancy",False,fin
+90D22,"Demanding diagnostic procedure of heart, large vessels and other intrathoracic organs for malignancy",False,fin
+90D31,"Diagnostic procedure of abdominal, retroperitoneal and pelvic organs for malignancy",False,fin
+90D32,"Demanding diagnostic procedure of abdominal, retroperitoneal and pelvic organs for malignancy",False,fin
+90D41,Diagnostic procedure of musculoskeletal system for malignancy,False,fin
+90D42,Demanding diagnostic procedure of musculoskeletal system for malignancy,False,fin
+90D61,Diagnostic procedure of peripheral vascular system for malignancy,False,fin
+90D62,Demanding diagnostic proc of peripheral vascular system for malignancy,False,fin
+90D64,Diagnostic procedure of lymfatic system for malignancy,False,fin
+90D91,Dose design for radiotherapy of malignancy,False,fin
+90D92,Demanding dose design for radiotherapy of malignancy,False,fin
+90S01,Parenteral administration,False,fin
+90S02,Intravenous administration,False,fin/nor
+90S03,Intravesical administration,False,fin
+90S04,"Intramuscular, subcutaneous or other special route",False,fin
+90T01,Cytostatic drug,False,fin
+90T05,Radiotherapy,False,fin/nor
+90T06,Radiotherapy with large shaped fields,False,fin
+90T07,Stereotactic radiotherapy or demanding isotope therapy,False,fin/nor
+90T08,Special demanding isotope therapy,False,fin/nor
+99S61,Demanding hormone therapy,False,fin
+99S80,Standard cytostatic therapy,False,fin
+99S90,Extensive procedure - list created during the exporting process,False,est/swe/lat/ice/den/fin/nor
+99T00,"Complex medication, unspecified",False,fin
+99V22,Team of care providers,False,swe/ice/fin
+99V35,Medical doctor,False,swe/ice/fin
